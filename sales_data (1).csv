@@ -1,0 +1,501 @@
+OrderID,ProductCategory,CustomerType,PaymentMethod,OrderStatus,QuantitySold,UnitPrice,SalesAmount,OrderDate,CustomerID,CustomerLoyaltyTier,ShippingCost,Region,PromotionType,DeliveryTime,Rating
+ORD1000,Sports Equipment,Corporate,Bank Transfer,Completed,2,257.18457710346195,514.3691542069239,4/13/23,CUST357,Regular Customer,29.764062874820166,East,Bundle Discount,7,1
+ORD1001,Electronics,Consumer,PayPal,Shipped,2,92.98000379813077,185.96000759626153,12/15/23,CUST420,Loyal Customer,21.53079926647603,West,No Promotion,6,1
+ORD1002,Furniture,Corporate,Bank Transfer,Canceled,1,475.4232687895929,475.4232687895929,9/28/23,CUST488,Regular Customer,23.228940723284204,East,Seasonal Sale,4,3
+ORD1003,Electronics,Consumer,Cash on Delivery,Completed,2,288.0549614293054,576.1099228586108,4/17/23,CUST111,Regular Customer,26.882685986915625,South,Flash Sale,3,1
+ORD1004,Books,Consumer,PayPal,Shipped,1,190.59081495037722,190.59081495037722,3/13/23,CUST386,Loyal Customer,22.36038239037917,East,No Promotion,1,1
+ORD1005,Electronics,Corporate,Bank Transfer,Shipped,2,291.3266106322406,582.6532212644812,7/8/23,CUST391,Regular Customer,11.225799122649562,North,Seasonal Sale,4,3
+ORD1006,Groceries,Corporate,Bank Transfer,Pending,4,368.4183115665167,1473.6732462660668,1/21/23,CUST499,Loyal Customer,19.249043401652443,East,No Promotion,2,5
+ORD1007,Sports Equipment,Consumer,Credit Card,Canceled,2,221.7791461243856,443.5582922487712,4/13/23,CUST244,Regular Customer,23.446266264291232,East,Seasonal Sale,10,5
+ORD1008,Sports Equipment,Consumer,Bank Transfer,Pending,5,331.72095980396807,1658.6047990198404,5/2/23,CUST697,Regular Customer,6.448113229433745,North,No Promotion,6,4
+ORD1009,Groceries,Corporate,Cash on Delivery,Pending,2,119.54304598414598,239.08609196829195,8/3/23,CUST240,Regular Customer,8.651755854820282,South,Flash Sale,4,3
+ORD1010,Sports Equipment,Consumer,PayPal,Canceled,4,169.53525707896566,678.1410283158626,11/27/23,CUST711,Loyal Customer,16.31129596768388,South,Bundle Discount,4,5
+ORD1011,Groceries,Corporate,Cash on Delivery,Canceled,1,468.0508657462369,468.0508657462369,3/29/23,CUST529,First-time Buyer,23.35445168664304,West,Bundle Discount,6,5
+ORD1012,Furniture,Corporate,Bank Transfer,Shipped,4,221.4600039479692,885.8400157918768,4/10/23,CUST763,First-time Buyer,26.587634943904725,West,Flash Sale,1,1
+ORD1013,Clothing,Corporate,Credit Card,Canceled,1,485.6034852648018,485.6034852648018,12/26/23,CUST217,Loyal Customer,14.30114223263513,East,Seasonal Sale,8,5
+ORD1014,Clothing,Consumer,PayPal,Pending,2,245.29502691555388,490.59005383110775,6/1/23,CUST258,Loyal Customer,16.462040431128237,East,Seasonal Sale,5,2
+ORD1015,Clothing,Corporate,PayPal,Completed,2,410.61356461556153,821.2271292311231,5/11/23,CUST127,Regular Customer,12.718452156634111,West,Bundle Discount,3,2
+ORD1016,Sports Equipment,Corporate,PayPal,Shipped,4,15.867823714248122,63.471294856992486,5/30/23,CUST225,First-time Buyer,16.62915278867152,West,No Promotion,6,5
+ORD1017,Books,Corporate,PayPal,Pending,1,345.7934893812726,345.7934893812726,11/5/23,CUST734,Regular Customer,14.767505622276767,North,Bundle Discount,5,2
+ORD1018,Clothing,Corporate,PayPal,Pending,2,209.62257493258699,419.24514986517397,9/15/23,CUST181,Loyal Customer,6.911290890851161,South,Flash Sale,3,3
+ORD1019,Books,Corporate,Cash on Delivery,Pending,2,12.938155059061893,25.876310118123786,12/10/23,CUST345,Loyal Customer,15.38912593829086,East,Seasonal Sale,4,5
+ORD1020,Sports Equipment,Consumer,PayPal,Pending,3,31.060319402538962,93.18095820761688,10/21/23,CUST466,Regular Customer,16.872951083981697,West,Flash Sale,10,3
+ORD1021,Clothing,Consumer,PayPal,Shipped,1,432.02761024072316,432.02761024072316,7/11/23,CUST874,First-time Buyer,21.687298274808693,North,Seasonal Sale,7,2
+ORD1022,Furniture,Corporate,Bank Transfer,Pending,1,101.34582932456946,101.34582932456946,10/4/23,CUST794,First-time Buyer,27.73262514981285,South,Bundle Discount,7,1
+ORD1023,Furniture,Consumer,PayPal,Canceled,3,360.2030983,1080.609294760488,6/10/23,CUST552,Loyal Customer,28.224365372529107,East,No Promotion,3,1
+ORD1024,Electronics,Consumer,Bank Transfer,Canceled,4,333.82674864219393,1335.3069945687757,11/10/23,CUST154,Regular Customer,15.80987685,South,Flash Sale,10,5
+ORD1025,Sports Equipment,Corporate,PayPal,Pending,3,109.3316900045812,327.9950700137436,1/22/23,CUST551,Loyal Customer,27.994556519431722,West,Bundle Discount,6,5
+ORD1026,Furniture,Consumer,Bank Transfer,Shipped,3,317.86510467817385,953.5953140345216,9/10/23,CUST618,Loyal Customer,26.07590057526242,East,Seasonal Sale,8,4
+ORD1027,Sports Equipment,Corporate,Bank Transfer,Pending,3,322.41790724364296,967.2537217309289,8/24/23,CUST836,Regular Customer,11.059876240781367,East,No Promotion,3,4
+ORD1028,Electronics,Corporate,Cash on Delivery,Completed,3,188.01372461003646,564.0411738301094,12/11/23,CUST756,First-time Buyer,13.937152281523272,East,Bundle Discount,1,5
+ORD1029,Furniture,Corporate,Cash on Delivery,Canceled,3,235.38749329583487,706.1624798875046,2/18/23,CUST294,Regular Customer,5.676033092832845,North,Bundle Discount,6,4
+ORD1030,Electronics,Corporate,Credit Card,Shipped,3,444.41903380054515,1333.2571014016355,2/28/23,CUST470,Regular Customer,29.230854963103702,West,Flash Sale,2,3
+ORD1031,Books,Corporate,Cash on Delivery,Pending,3,202.9795729612743,608.9387189,6/19/23,CUST430,First-time Buyer,8.733039354,South,No Promotion,10,1
+ORD1032,Groceries,Corporate,Cash on Delivery,Canceled,4,81.50733775647785,326.0293510259114,7/7/23,CUST632,Regular Customer,27.27021002639318,East,Flash Sale,5,2
+ORD1033,Clothing,Consumer,PayPal,Pending,4,485.30171006417334,1941.2068402566933,9/28/23,CUST221,Loyal Customer,29.48735465,South,Bundle Discount,8,3
+ORD1034,Electronics,Corporate,Cash on Delivery,Shipped,4,292.15278516297343,1168.6111406518937,7/9/23,CUST952,Regular Customer,10.561604643793602,North,No Promotion,6,5
+ORD1035,Clothing,Corporate,Bank Transfer,Canceled,2,135.06711025438398,270.13422050876795,6/24/23,CUST801,Loyal Customer,11.086739213643957,South,No Promotion,9,1
+ORD1036,Furniture,Corporate,Bank Transfer,Completed,2,446.9829216,893.9658432,2/20/23,CUST387,Regular Customer,23.969640064431577,West,Flash Sale,8,1
+ORD1037,Books,Consumer,Credit Card,Completed,1,492.21771966345773,492.21771966345773,12/30/23,CUST180,Regular Customer,19.00404056444697,South,Bundle Discount,1,3
+ORD1038,Electronics,Corporate,Bank Transfer,Shipped,2,125.19532689741332,250.39065379482665,2/24/23,CUST930,Loyal Customer,15.671374712114028,North,Seasonal Sale,8,5
+ORD1039,Clothing,Consumer,Bank Transfer,Pending,2,285.2326812657037,570.4653625314074,9/1/23,CUST211,Loyal Customer,16.61376616181007,West,Flash Sale,9,1
+ORD1040,Books,Corporate,Bank Transfer,Completed,2,255.82394709206076,511.6478941841215,11/16/23,CUST787,Regular Customer,13.994514432751599,South,Bundle Discount,3,5
+ORD1041,Books,Corporate,Credit Card,Shipped,1,347.1623642223281,347.1623642223281,5/11/23,CUST351,Loyal Customer,24.252446540962147,North,Flash Sale,10,5
+ORD1042,Clothing,Consumer,Bank Transfer,Shipped,4,230.48644016562994,921.9457606625198,11/3/23,CUST352,First-time Buyer,25.641095090582724,North,Seasonal Sale,1,2
+ORD1043,Groceries,Corporate,Credit Card,Canceled,1,351.21018309335085,351.21018309335085,5/15/23,CUST877,Regular Customer,13.457013993298368,South,No Promotion,5,5
+ORD1044,Clothing,Consumer,PayPal,Shipped,3,434.9134888948513,1304.740466684554,1/21/23,CUST390,Loyal Customer,6.255384701445308,North,Flash Sale,7,2
+ORD1045,Furniture,Corporate,Credit Card,Canceled,4,188.10724045267858,752.4289618107143,11/25/23,CUST680,First-time Buyer,9.367811909221933,East,Seasonal Sale,9,4
+ORD1046,Sports Equipment,Corporate,Cash on Delivery,Pending,3,437.51043439938087,1312.5313031981427,6/16/23,CUST839,Loyal Customer,18.54425201537815,East,Flash Sale,9,1
+ORD1047,Clothing,Corporate,PayPal,Canceled,3,373.4463167,1120.338950241696,10/1/23,CUST720,Loyal Customer,10.439164891820784,East,Flash Sale,9,1
+ORD1048,Books,Corporate,Credit Card,Shipped,3,138.77906012266723,416.33718036800167,3/30/23,CUST479,Loyal Customer,10.221931839813198,West,Bundle Discount,7,4
+ORD1049,Groceries,Corporate,Credit Card,Pending,2,116.66852746546844,233.3370549309369,11/12/23,CUST519,Loyal Customer,18.499096589639247,West,Seasonal Sale,4,3
+ORD1050,Electronics,Consumer,PayPal,Shipped,1,55.144913417740106,55.144913417740106,1/14/23,CUST954,Regular Customer,6.385239802,South,Bundle Discount,9,2
+ORD1051,Groceries,Corporate,Bank Transfer,Completed,5,172.14734541531988,860.7367270765994,8/30/23,CUST396,Regular Customer,19.138910719457407,North,No Promotion,5,2
+ORD1052,Groceries,Corporate,PayPal,Canceled,1,313.0755964777963,313.0755964777963,9/22/23,CUST399,Regular Customer,7.697681305864533,East,Flash Sale,6,1
+ORD1053,Clothing,Consumer,Cash on Delivery,Canceled,4,14.58438492097267,58.33753968389068,12/12/23,CUST505,Regular Customer,28.52500688120797,North,Seasonal Sale,5,2
+ORD1054,Books,Consumer,Credit Card,Canceled,4,293.8453931270254,1175.3815725081015,2/22/23,CUST751,First-time Buyer,9.929116666714325,South,Flash Sale,3,1
+ORD1055,Furniture,Corporate,PayPal,Canceled,2,31.33045980217005,62.6609196,12/6/23,CUST140,First-time Buyer,21.05213147100387,North,Flash Sale,1,4
+ORD1056,Electronics,Corporate,PayPal,Pending,5,434.7464970771781,2173.7324853858904,4/2/23,CUST529,Regular Customer,16.60424779987028,South,Seasonal Sale,1,1
+ORD1057,Furniture,Consumer,Credit Card,Canceled,5,250.9590357017589,1254.7951785087944,9/21/23,CUST579,Loyal Customer,15.48664707137503,North,No Promotion,10,2
+ORD1058,Electronics,Consumer,Bank Transfer,Shipped,1,186.2884574275578,186.2884574275578,2/4/23,CUST178,Loyal Customer,19.52762606254305,South,Bundle Discount,5,3
+ORD1059,Electronics,Corporate,Cash on Delivery,Canceled,1,263.4324601276811,263.4324601276811,7/25/23,CUST668,Loyal Customer,27.367395664528573,South,Flash Sale,6,1
+ORD1060,Clothing,Consumer,PayPal,Pending,1,458.4130704159695,458.4130704159695,3/22/23,CUST107,First-time Buyer,27.819197362514032,South,Seasonal Sale,4,1
+ORD1061,Clothing,Corporate,Cash on Delivery,Pending,2,275.6948576033694,551.3897152067389,2/19/23,CUST121,Regular Customer,25.966433416148597,East,No Promotion,4,5
+ORD1062,Sports Equipment,Consumer,Cash on Delivery,Pending,3,38.98370486508683,116.95111459526049,12/26/23,CUST770,Regular Customer,14.919516706544954,East,Flash Sale,2,1
+ORD1063,Groceries,Corporate,Credit Card,Shipped,2,211.7066607608454,423.4133215216908,1/2/23,CUST949,Loyal Customer,8.018237823,East,Flash Sale,1,5
+ORD1064,Groceries,Consumer,Bank Transfer,Canceled,3,473.76652427274587,1421.2995728182377,2/23/23,CUST350,Loyal Customer,15.904665888345189,West,Bundle Discount,4,1
+ORD1065,Clothing,Consumer,Credit Card,Pending,2,152.09118145968796,304.1823629193759,4/16/23,CUST303,Regular Customer,12.481028777685125,South,Seasonal Sale,3,5
+ORD1066,Books,Consumer,Bank Transfer,Completed,5,460.65137950783947,2303.2568975391973,9/17/23,CUST871,First-time Buyer,21.739084017267153,South,Flash Sale,6,3
+ORD1067,Clothing,Consumer,Credit Card,Completed,1,454.8816208071647,454.8816208071647,11/6/23,CUST771,First-time Buyer,11.00754047874015,East,Seasonal Sale,5,3
+ORD1068,Sports Equipment,Corporate,PayPal,Shipped,1,57.28179545929452,57.28179545929452,7/10/23,CUST381,Regular Customer,25.92199554972829,South,Seasonal Sale,8,2
+ORD1069,Books,Corporate,Credit Card,Completed,5,190.0705966779009,950.3529833895045,8/6/23,CUST117,Regular Customer,6.077452267494028,South,No Promotion,10,5
+ORD1070,Furniture,Corporate,Credit Card,Pending,4,308.5725984695879,1234.2903938783516,2/13/23,CUST845,Regular Customer,28.408104193478955,West,Flash Sale,1,4
+ORD1071,Electronics,Corporate,Credit Card,Canceled,4,443.3472429431698,1773.3889717726793,6/11/23,CUST926,Loyal Customer,22.51841589474043,North,Flash Sale,7,5
+ORD1072,Clothing,Consumer,PayPal,Shipped,4,495.6850532571645,1982.740213028658,7/21/23,CUST685,Regular Customer,24.483375204380405,West,No Promotion,5,1
+ORD1073,Clothing,Corporate,Cash on Delivery,Completed,4,475.1399179869845,1900.559671947938,9/27/23,CUST918,Regular Customer,21.56810913366973,East,Seasonal Sale,2,2
+ORD1074,Groceries,Corporate,PayPal,Completed,5,476.83466133045783,2384.1733066522893,12/17/23,CUST914,Loyal Customer,7.285823085572094,West,Flash Sale,9,3
+ORD1075,Furniture,Corporate,PayPal,Canceled,3,318.1497584713669,954.4492754141007,10/31/23,CUST988,First-time Buyer,14.863181352486933,East,No Promotion,6,1
+ORD1076,Groceries,Corporate,Credit Card,Shipped,1,198.73228994182156,198.73228994182156,9/28/23,CUST947,Loyal Customer,16.399186155080052,South,Bundle Discount,2,5
+ORD1077,Sports Equipment,Corporate,Cash on Delivery,Canceled,5,24.087616137213733,120.43808068606866,8/3/23,CUST623,First-time Buyer,22.82751017540331,South,Bundle Discount,2,4
+ORD1078,Books,Corporate,Cash on Delivery,Canceled,1,361.36268055804464,361.36268055804464,9/9/23,CUST400,Loyal Customer,18.269199849314433,South,No Promotion,1,3
+ORD1079,Groceries,Corporate,Cash on Delivery,Canceled,2,197.05123724130638,394.10247448261276,7/9/23,CUST648,First-time Buyer,19.151383208689168,West,Bundle Discount,10,1
+ORD1080,Furniture,Consumer,Bank Transfer,Completed,3,311.53402516631365,934.6020755,10/23/23,CUST814,Regular Customer,9.749120532222287,East,No Promotion,5,3
+ORD1081,Sports Equipment,Consumer,Cash on Delivery,Completed,2,193.9390749484991,387.8781498969982,8/1/23,CUST308,Loyal Customer,27.220133678647215,South,Bundle Discount,3,2
+ORD1082,Clothing,Corporate,PayPal,Pending,1,496.63749366337674,496.63749366337674,7/27/23,CUST834,Loyal Customer,19.788003731712013,West,No Promotion,6,2
+ORD1083,Furniture,Corporate,Bank Transfer,Pending,3,338.75540403723903,1016.2662121117171,8/25/23,CUST236,Regular Customer,9.741608692071342,West,Bundle Discount,9,4
+ORD1084,Sports Equipment,Consumer,Bank Transfer,Pending,5,317.9171454608749,1589.5857273043746,12/4/23,CUST702,Regular Customer,22.455599509146854,North,Flash Sale,6,5
+ORD1085,Books,Corporate,Cash on Delivery,Completed,2,496.78882409075203,993.5776481815041,2/22/23,CUST526,Regular Customer,13.24393508039437,South,Flash Sale,3,2
+ORD1086,Electronics,Corporate,Cash on Delivery,Canceled,4,320.1953911940233,1280.781564776093,10/7/23,CUST424,Loyal Customer,12.175555116086096,North,Flash Sale,10,5
+ORD1087,Books,Corporate,Bank Transfer,Shipped,1,136.72929897138062,136.72929897138062,8/5/23,CUST858,Loyal Customer,19.176392203221614,South,Bundle Discount,6,2
+ORD1088,Electronics,Corporate,Cash on Delivery,Pending,2,174.1666859922402,348.3333719844804,9/9/23,CUST378,Loyal Customer,29.312938264169354,East,No Promotion,2,4
+ORD1089,Furniture,Corporate,Credit Card,Pending,1,404.73252546268924,404.73252546268924,7/7/23,CUST314,Regular Customer,16.46533229405745,East,Flash Sale,9,3
+ORD1090,Electronics,Corporate,PayPal,Canceled,3,157.43981745714905,472.31945237144714,2/10/23,CUST841,Loyal Customer,14.408445013109166,South,Flash Sale,5,5
+ORD1091,Sports Equipment,Corporate,Bank Transfer,Pending,4,379.69488148278793,1518.7795259311517,6/6/23,CUST131,First-time Buyer,28.088351494020632,North,Bundle Discount,9,1
+ORD1092,Sports Equipment,Corporate,Bank Transfer,Pending,2,410.6559361121552,821.3118722243104,1/15/23,CUST755,First-time Buyer,20.414350057304226,North,Bundle Discount,6,4
+ORD1093,Books,Corporate,Cash on Delivery,Shipped,4,156.72295100927704,626.8918040371082,10/28/23,CUST839,Loyal Customer,9.184893556476007,West,Seasonal Sale,8,2
+ORD1094,Groceries,Consumer,Cash on Delivery,Canceled,4,305.1169658932768,1220.4678635731073,3/6/23,CUST726,Loyal Customer,23.086691561726088,West,Seasonal Sale,3,1
+ORD1095,Books,Corporate,PayPal,Canceled,2,160.90694296609578,321.81388593219157,12/11/23,CUST236,First-time Buyer,27.965145193949105,South,Flash Sale,3,5
+ORD1096,Books,Corporate,PayPal,Completed,3,442.65688937923494,1327.9706681377047,11/23/23,CUST210,Regular Customer,6.573631136789203,East,Flash Sale,3,5
+ORD1097,Clothing,Corporate,Cash on Delivery,Canceled,5,192.19689519127326,960.9844759563663,1/9/23,CUST819,First-time Buyer,11.48463805865184,North,Seasonal Sale,5,4
+ORD1098,Furniture,Consumer,Bank Transfer,Shipped,1,319.34798103400954,319.34798103400954,12/10/23,CUST946,Loyal Customer,28.452951243766677,West,Seasonal Sale,4,5
+ORD1099,Clothing,Corporate,Credit Card,Pending,3,441.3670089491244,1324.1010268473733,5/9/23,CUST790,Loyal Customer,8.612121238655233,North,Flash Sale,2,4
+ORD1100,Books,Consumer,Bank Transfer,Shipped,4,236.15268853816266,944.6107541526507,5/16/23,CUST129,First-time Buyer,12.123913586378176,East,Bundle Discount,9,1
+ORD1101,Sports Equipment,Consumer,Cash on Delivery,Canceled,2,122.26618258991161,244.53236517982322,3/4/23,CUST148,First-time Buyer,13.87834041278526,East,Bundle Discount,10,5
+ORD1102,Electronics,Corporate,PayPal,Completed,3,173.79973621864266,521.3992087,5/19/23,CUST178,First-time Buyer,10.40039394301823,East,No Promotion,8,1
+ORD1103,Electronics,Consumer,Cash on Delivery,Shipped,1,358.28310243142346,358.28310243142346,3/22/23,CUST519,Loyal Customer,11.108582011577576,West,No Promotion,1,4
+ORD1104,Clothing,Consumer,Bank Transfer,Shipped,5,259.583726,1297.91863,6/12/23,CUST418,First-time Buyer,13.192299182177159,North,Seasonal Sale,6,1
+ORD1105,Electronics,Consumer,Credit Card,Completed,3,107.62464420880039,322.87393262640114,10/16/23,CUST898,Loyal Customer,26.810552813729974,North,Seasonal Sale,6,2
+ORD1106,Books,Consumer,Credit Card,Shipped,4,28.46359724321546,113.85438897286184,9/18/23,CUST144,Loyal Customer,8.162671849940192,West,Flash Sale,2,1
+ORD1107,Furniture,Corporate,Credit Card,Completed,2,330.57881696325234,661.1576339265047,8/19/23,CUST368,Loyal Customer,20.698509239911303,West,Flash Sale,10,1
+ORD1108,Clothing,Consumer,Credit Card,Pending,3,264.64909876266836,793.9472962880051,2/10/23,CUST170,First-time Buyer,14.13189611762025,North,Seasonal Sale,8,4
+ORD1109,Electronics,Corporate,Cash on Delivery,Completed,5,18.945959864398443,94.72979932199222,1/28/23,CUST466,Loyal Customer,7.533752135172956,South,Bundle Discount,7,5
+ORD1110,Sports Equipment,Consumer,Bank Transfer,Pending,5,28.346571643778976,141.73285821889488,5/15/23,CUST283,Loyal Customer,22.033587826973438,West,Bundle Discount,3,4
+ORD1111,Sports Equipment,Consumer,Credit Card,Pending,2,375.1631176551303,750.3262353102606,7/20/23,CUST586,First-time Buyer,12.854462538409042,West,Seasonal Sale,5,2
+ORD1112,Furniture,Corporate,Cash on Delivery,Completed,4,291.96696721631463,1167.8678688652585,11/24/23,CUST197,First-time Buyer,18.387819286018882,East,Seasonal Sale,1,5
+ORD1113,Sports Equipment,Corporate,Cash on Delivery,Completed,5,401.0807073393074,2005.4035366965372,9/25/23,CUST804,First-time Buyer,21.40707488243113,North,Bundle Discount,10,3
+ORD1114,Clothing,Consumer,Cash on Delivery,Shipped,4,445.0382672780331,1780.1530691121325,2/2/23,CUST330,Loyal Customer,28.965945318689887,East,Seasonal Sale,8,3
+ORD1115,Clothing,Consumer,Credit Card,Pending,3,266.0009719156666,798.0029157469997,2/17/23,CUST528,Regular Customer,6.095352408716863,South,Flash Sale,2,3
+ORD1116,Books,Consumer,Credit Card,Canceled,2,413.43840226708977,826.8768045341795,3/3/23,CUST172,Regular Customer,20.446945873764758,West,Seasonal Sale,3,1
+ORD1117,Electronics,Consumer,PayPal,Pending,4,423.38101771421583,1693.5240708568633,8/4/23,CUST202,Regular Customer,17.977686913017635,South,Seasonal Sale,8,3
+ORD1118,Clothing,Corporate,Credit Card,Pending,2,28.324142255896295,56.64828451179259,10/20/23,CUST906,Loyal Customer,14.777240033110335,West,Seasonal Sale,2,4
+ORD1119,Clothing,Corporate,Bank Transfer,Pending,1,388.8626381,388.8626381,4/9/23,CUST591,Loyal Customer,29.650830152285675,North,Seasonal Sale,4,5
+ORD1120,Clothing,Corporate,Credit Card,Shipped,1,493.57557451035944,493.57557451035944,6/21/23,CUST419,Regular Customer,15.908246293997973,West,Seasonal Sale,6,4
+ORD1121,Books,Corporate,PayPal,Completed,3,252.99281004964342,758.9784301489303,12/26/23,CUST926,First-time Buyer,22.191766498854687,North,Bundle Discount,1,3
+ORD1122,Clothing,Consumer,Bank Transfer,Canceled,3,233.7790653,701.3371960095241,8/2/23,CUST240,First-time Buyer,5.459166149,South,Seasonal Sale,10,3
+ORD1123,Electronics,Consumer,Bank Transfer,Shipped,4,238.64963229640114,954.5985291856045,2/4/23,CUST381,Loyal Customer,5.306290456291619,East,No Promotion,6,4
+ORD1124,Clothing,Consumer,Credit Card,Canceled,1,138.15581594028947,138.15581594028947,8/15/23,CUST453,First-time Buyer,5.137442141429863,East,Flash Sale,1,2
+ORD1125,Sports Equipment,Consumer,Cash on Delivery,Shipped,5,193.72622397160066,968.6311198580033,4/11/23,CUST112,First-time Buyer,22.800776920728126,South,Bundle Discount,6,2
+ORD1126,Books,Consumer,Bank Transfer,Canceled,4,169.00472676182784,676.0189070473114,5/11/23,CUST966,Regular Customer,19.606916049285015,East,Seasonal Sale,6,3
+ORD1127,Books,Consumer,Bank Transfer,Canceled,4,412.2438734972925,1648.975494,9/14/23,CUST818,Regular Customer,20.601107432568895,West,No Promotion,7,5
+ORD1128,Books,Consumer,Bank Transfer,Shipped,2,320.74497544065355,641.4899508813071,1/5/23,CUST111,Loyal Customer,6.549978223301343,South,Bundle Discount,6,2
+ORD1129,Clothing,Corporate,Bank Transfer,Shipped,4,261.97794896263304,1047.9117958505321,8/6/23,CUST363,First-time Buyer,18.254706379281878,West,No Promotion,8,4
+ORD1130,Groceries,Consumer,PayPal,Pending,3,210.84621796481778,632.5386538944533,9/12/23,CUST770,First-time Buyer,13.584890580573198,East,No Promotion,1,5
+ORD1131,Furniture,Consumer,Bank Transfer,Pending,3,179.43882597054068,538.3164779116221,12/25/23,CUST379,Regular Customer,26.63211204306277,West,Seasonal Sale,7,2
+ORD1132,Sports Equipment,Corporate,Bank Transfer,Canceled,4,64.18564775612757,256.74259102451026,10/10/23,CUST993,First-time Buyer,22.66435066433217,North,Seasonal Sale,3,2
+ORD1133,Clothing,Corporate,Credit Card,Canceled,2,451.26047371665925,902.5209474333185,7/26/23,CUST842,Loyal Customer,21.456071758249692,West,Flash Sale,8,1
+ORD1134,Electronics,Corporate,PayPal,Pending,2,374.01298051104675,748.0259610220935,1/15/23,CUST899,Regular Customer,21.94657406972492,West,Flash Sale,1,1
+ORD1135,Furniture,Consumer,Bank Transfer,Shipped,1,121.88351007395907,121.88351007395907,12/12/23,CUST814,Loyal Customer,18.912003464653473,North,Seasonal Sale,8,2
+ORD1136,Electronics,Consumer,Cash on Delivery,Completed,2,319.8098256,639.6196512,2/11/23,CUST843,Regular Customer,23.467015092905662,South,No Promotion,6,5
+ORD1137,Books,Corporate,Cash on Delivery,Canceled,2,347.2155156388381,694.4310312776762,6/28/23,CUST636,First-time Buyer,6.985293984442385,South,Bundle Discount,8,1
+ORD1138,Groceries,Corporate,Bank Transfer,Pending,2,448.9333015631496,897.8666031262992,3/4/23,CUST871,Loyal Customer,21.850377660054246,North,Flash Sale,8,2
+ORD1139,Groceries,Corporate,Cash on Delivery,Canceled,5,348.06607860102423,1740.330393005121,12/18/23,CUST974,Regular Customer,10.461004676735218,South,Seasonal Sale,3,5
+ORD1140,Clothing,Consumer,Credit Card,Completed,2,376.1595722058245,752.3191444,8/19/23,CUST104,Regular Customer,27.00903182995633,East,No Promotion,5,2
+ORD1141,Furniture,Corporate,Cash on Delivery,Shipped,4,457.4903901838531,1829.9615607354124,8/29/23,CUST463,Loyal Customer,14.702580898955993,East,No Promotion,7,5
+ORD1142,Furniture,Corporate,Cash on Delivery,Pending,2,311.3448474074528,622.6896948149056,2/21/23,CUST187,Loyal Customer,24.848207528762828,South,Flash Sale,4,5
+ORD1143,Sports Equipment,Corporate,Bank Transfer,Pending,2,448.16789910342715,896.3357982068543,4/6/23,CUST714,Regular Customer,29.318441203774242,South,No Promotion,7,3
+ORD1144,Books,Corporate,Bank Transfer,Pending,3,126.85391358518537,380.5617407555561,8/10/23,CUST385,Regular Customer,23.014348424023435,East,Seasonal Sale,8,4
+ORD1145,Clothing,Corporate,Credit Card,Shipped,4,99.46857519554464,397.8743007821786,8/19/23,CUST714,Loyal Customer,29.785549249032726,North,No Promotion,2,5
+ORD1146,Electronics,Corporate,Credit Card,Completed,5,258.9437790535395,1294.7188952676975,8/25/23,CUST723,Regular Customer,24.16671800094145,East,Flash Sale,8,5
+ORD1147,Groceries,Consumer,Credit Card,Canceled,3,377.94669238903384,1133.8400771671015,5/23/23,CUST357,Loyal Customer,11.933022626758188,West,Seasonal Sale,7,2
+ORD1148,Furniture,Consumer,Cash on Delivery,Canceled,5,345.3184489387886,1726.592244693943,6/20/23,CUST193,Loyal Customer,17.019722862375758,North,No Promotion,2,4
+ORD1149,Sports Equipment,Consumer,Bank Transfer,Canceled,1,387.8407229384705,387.8407229384705,1/29/23,CUST699,Regular Customer,18.281788728032403,West,Seasonal Sale,2,5
+ORD1150,Clothing,Consumer,Bank Transfer,Completed,2,376.6608083131093,753.3216166262187,2/5/23,CUST861,First-time Buyer,23.819262206973683,West,Bundle Discount,10,1
+ORD1151,Books,Consumer,Cash on Delivery,Canceled,3,303.6750924034229,911.0252772102688,1/13/23,CUST743,Regular Customer,24.06186998426393,West,Flash Sale,5,5
+ORD1152,Electronics,Corporate,Bank Transfer,Shipped,5,331.2522452860882,1656.2612264304412,6/9/23,CUST823,First-time Buyer,17.95218922876743,West,Flash Sale,8,4
+ORD1153,Furniture,Corporate,Cash on Delivery,Canceled,4,499.3691486999743,1997.4765947998972,11/23/23,CUST462,First-time Buyer,10.56197817491114,South,Flash Sale,10,1
+ORD1154,Clothing,Consumer,Bank Transfer,Shipped,4,119.78054022282596,479.12216089130385,7/6/23,CUST767,Regular Customer,9.455120798314438,East,Seasonal Sale,2,1
+ORD1155,Electronics,Consumer,Cash on Delivery,Completed,4,438.3914513922248,1753.5658055688991,8/31/23,CUST869,Regular Customer,15.712663541075933,South,Flash Sale,1,3
+ORD1156,Electronics,Corporate,Bank Transfer,Completed,5,85.14739974,425.7369987,3/27/23,CUST849,Regular Customer,22.24658212,West,Flash Sale,7,1
+ORD1157,Clothing,Corporate,Cash on Delivery,Completed,1,142.84421240736538,142.84421240736538,10/11/23,CUST817,Loyal Customer,15.716891896277408,West,Seasonal Sale,7,3
+ORD1158,Groceries,Corporate,PayPal,Canceled,5,275.4525063754789,1377.2625318773944,3/7/23,CUST227,Loyal Customer,6.763233833786549,West,Seasonal Sale,3,4
+ORD1159,Sports Equipment,Corporate,Bank Transfer,Completed,3,324.1547903641085,972.4643710923256,6/19/23,CUST998,Loyal Customer,22.00306496996243,East,No Promotion,4,1
+ORD1160,Books,Consumer,Credit Card,Pending,2,279.0611778659331,558.1223557318662,2/14/23,CUST437,Loyal Customer,20.07929993748448,East,No Promotion,4,3
+ORD1161,Groceries,Consumer,Credit Card,Pending,1,270.75527345593554,270.75527345593554,3/3/23,CUST157,Regular Customer,9.868536669,North,Seasonal Sale,3,3
+ORD1162,Clothing,Consumer,Cash on Delivery,Pending,4,304.35246836232574,1217.409873449303,5/14/23,CUST104,Loyal Customer,23.851977027228255,West,Seasonal Sale,3,2
+ORD1163,Clothing,Consumer,PayPal,Shipped,3,458.0451362300129,1374.1354086900387,10/11/23,CUST130,First-time Buyer,10.001205886142738,South,Bundle Discount,4,2
+ORD1164,Clothing,Corporate,PayPal,Completed,5,454.47174603322384,2272.358730166119,1/28/23,CUST990,Loyal Customer,22.029785786697673,East,Flash Sale,10,2
+ORD1165,Electronics,Corporate,PayPal,Shipped,5,126.8711793276833,634.3558966384164,4/18/23,CUST906,Loyal Customer,28.307039858752137,West,Seasonal Sale,6,1
+ORD1166,Furniture,Consumer,Cash on Delivery,Pending,5,368.0064778286844,1840.032389143422,2/13/23,CUST161,First-time Buyer,8.259297675915956,South,Flash Sale,5,2
+ORD1167,Books,Consumer,Bank Transfer,Canceled,1,76.25924222694152,76.25924222694152,12/6/23,CUST946,Loyal Customer,18.144934924320673,West,Seasonal Sale,2,3
+ORD1168,Furniture,Consumer,Bank Transfer,Shipped,5,61.98948407119236,309.9474203559618,10/13/23,CUST849,First-time Buyer,23.013258179124964,East,No Promotion,9,3
+ORD1169,Furniture,Corporate,Cash on Delivery,Pending,5,485.38606350402785,2426.9303175201394,11/27/23,CUST260,First-time Buyer,12.62616922287617,East,No Promotion,9,5
+ORD1170,Sports Equipment,Consumer,Bank Transfer,Pending,2,441.6928287712947,883.3856575425895,5/8/23,CUST226,Regular Customer,28.819464261304667,North,Flash Sale,7,3
+ORD1171,Sports Equipment,Corporate,Bank Transfer,Shipped,4,313.64781286839826,1254.591251473593,12/14/23,CUST336,Regular Customer,11.84916907086621,West,No Promotion,7,5
+ORD1172,Furniture,Corporate,Bank Transfer,Canceled,5,412.9977244484424,2064.988622242212,8/19/23,CUST325,Loyal Customer,16.40525967,East,Seasonal Sale,1,3
+ORD1173,Clothing,Consumer,PayPal,Completed,2,373.6449397664284,747.2898795328568,7/9/23,CUST112,Loyal Customer,9.747037786,West,No Promotion,6,1
+ORD1174,Groceries,Consumer,Bank Transfer,Completed,4,434.33502550284715,1737.3401020113886,8/13/23,CUST110,Loyal Customer,25.42081109347909,West,No Promotion,9,5
+ORD1175,Electronics,Corporate,Credit Card,Pending,4,111.95347691028476,447.81390764113905,10/10/23,CUST250,Regular Customer,9.728012771762593,North,No Promotion,3,1
+ORD1176,Sports Equipment,Consumer,Cash on Delivery,Canceled,3,153.45523512325437,460.3657053697631,5/1/23,CUST108,First-time Buyer,16.37464896372302,West,Seasonal Sale,8,4
+ORD1177,Books,Consumer,Bank Transfer,Canceled,4,68.41149222936765,273.6459689174706,4/26/23,CUST326,Regular Customer,10.250676379631757,West,Flash Sale,1,3
+ORD1178,Sports Equipment,Corporate,Credit Card,Shipped,4,87.32670401679302,349.30681606717206,8/21/23,CUST445,Loyal Customer,9.727556561990504,South,No Promotion,6,4
+ORD1179,Sports Equipment,Consumer,PayPal,Canceled,4,106.91706598623185,427.6682639449274,9/16/23,CUST818,First-time Buyer,5.491237478313708,South,Seasonal Sale,7,1
+ORD1180,Groceries,Corporate,Bank Transfer,Completed,4,212.6637440626409,850.6549762505635,12/25/23,CUST253,Loyal Customer,25.623708985575657,East,Seasonal Sale,6,3
+ORD1181,Clothing,Consumer,Bank Transfer,Shipped,4,261.3412099,1045.364839716232,7/17/23,CUST773,First-time Buyer,15.564199734038256,South,No Promotion,1,4
+ORD1182,Furniture,Consumer,Credit Card,Pending,2,122.49893167498362,244.99786334996725,5/17/23,CUST443,Regular Customer,10.914504769622116,West,No Promotion,9,5
+ORD1183,Groceries,Corporate,Credit Card,Canceled,1,435.25401895421703,435.25401895421703,11/14/23,CUST796,First-time Buyer,24.897729013816452,West,No Promotion,8,1
+ORD1184,Groceries,Consumer,PayPal,Completed,1,429.11723472313145,429.11723472313145,6/14/23,CUST455,Loyal Customer,23.054606446361497,East,Bundle Discount,6,2
+ORD1185,Furniture,Consumer,PayPal,Completed,4,438.2879389179728,1753.1517556718911,8/13/23,CUST983,First-time Buyer,17.70821132955519,North,Seasonal Sale,5,3
+ORD1186,Furniture,Consumer,Credit Card,Completed,3,11.035588095397896,33.10676428619369,11/3/23,CUST652,Regular Customer,17.245095275131284,East,Flash Sale,5,5
+ORD1187,Furniture,Consumer,Cash on Delivery,Canceled,4,39.25576466511295,157.0230586604518,8/22/23,CUST914,Regular Customer,28.07116152628586,South,Seasonal Sale,3,5
+ORD1188,Sports Equipment,Corporate,Bank Transfer,Shipped,3,236.24637077993754,708.7391123398127,6/21/23,CUST879,Loyal Customer,25.550510744076774,North,Flash Sale,9,5
+ORD1189,Electronics,Corporate,PayPal,Shipped,3,73.33052144277053,219.9915643283116,6/1/23,CUST843,First-time Buyer,20.18739283599399,East,Flash Sale,8,4
+ORD1190,Groceries,Consumer,Credit Card,Canceled,3,26.03218842810166,78.09656528430497,11/11/23,CUST591,Regular Customer,23.62031376630212,East,Bundle Discount,7,2
+ORD1191,Furniture,Consumer,PayPal,Canceled,1,71.26127524880272,71.26127524880272,6/9/23,CUST277,First-time Buyer,6.612981810604877,East,Bundle Discount,9,3
+ORD1192,Books,Consumer,Cash on Delivery,Canceled,3,421.6454024196643,1264.936207258993,4/6/23,CUST684,Loyal Customer,8.690357783,North,No Promotion,9,2
+ORD1193,Sports Equipment,Corporate,Bank Transfer,Pending,3,369.62194772501095,1108.8658431750328,8/21/23,CUST723,Loyal Customer,27.69716188809564,South,No Promotion,7,2
+ORD1194,Books,Consumer,Credit Card,Canceled,3,409.4854333998574,1228.4563001995723,6/29/23,CUST272,First-time Buyer,27.86672971325531,West,Flash Sale,6,1
+ORD1195,Electronics,Consumer,Bank Transfer,Shipped,5,173.78264187801426,868.9132093900713,4/23/23,CUST108,First-time Buyer,12.969505478087395,East,Flash Sale,5,1
+ORD1196,Books,Consumer,Credit Card,Completed,5,490.85671905227736,2454.283595261387,11/14/23,CUST974,Regular Customer,13.852377538254718,East,Bundle Discount,10,5
+ORD1197,Sports Equipment,Corporate,Credit Card,Pending,3,362.2988161957853,1086.896448587356,2/21/23,CUST744,Loyal Customer,19.460393532313706,North,Bundle Discount,5,4
+ORD1198,Electronics,Corporate,PayPal,Completed,3,343.02375914227326,1029.0712774268197,9/25/23,CUST836,Regular Customer,5.2736726111492365,South,Seasonal Sale,4,1
+ORD1199,Sports Equipment,Corporate,Cash on Delivery,Canceled,5,186.69026780713747,933.4513390356874,10/22/23,CUST180,Regular Customer,29.32255975487482,North,Flash Sale,2,2
+ORD1200,Sports Equipment,Consumer,PayPal,Completed,5,454.4006903364818,2272.003451682409,4/23/23,CUST202,First-time Buyer,23.64808461436044,South,Bundle Discount,7,3
+ORD1201,Furniture,Consumer,Bank Transfer,Completed,4,88.79184879983761,355.16739519935044,4/11/23,CUST750,Loyal Customer,14.71098708666581,North,No Promotion,2,5
+ORD1202,Books,Consumer,Bank Transfer,Shipped,2,73.79215885033261,147.58431770066522,4/23/23,CUST179,First-time Buyer,9.949386851,North,No Promotion,2,5
+ORD1203,Groceries,Corporate,Cash on Delivery,Shipped,3,188.3805449856103,565.1416349568309,3/22/23,CUST349,First-time Buyer,10.431247251653549,East,Flash Sale,7,4
+ORD1204,Groceries,Consumer,Credit Card,Completed,1,402.5582074610446,402.5582074610446,7/6/23,CUST431,First-time Buyer,22.263472641222553,North,No Promotion,8,4
+ORD1205,Clothing,Corporate,PayPal,Canceled,3,466.4459365924769,1399.3378097774307,4/23/23,CUST808,First-time Buyer,22.392612438194053,East,Flash Sale,6,4
+ORD1206,Sports Equipment,Consumer,Cash on Delivery,Shipped,4,139.90228783975792,559.6091513590317,1/2/23,CUST746,Loyal Customer,16.011330073833705,East,No Promotion,7,5
+ORD1207,Clothing,Corporate,Cash on Delivery,Canceled,5,39.16623952010258,195.8311976005129,5/10/23,CUST609,Loyal Customer,12.495668783831096,West,Bundle Discount,10,5
+ORD1208,Furniture,Consumer,PayPal,Completed,2,462.7465768306175,925.4931537,8/8/23,CUST973,Regular Customer,25.28608495721466,South,Flash Sale,6,3
+ORD1209,Clothing,Corporate,Bank Transfer,Pending,5,431.27645296421616,2156.3822648210808,2/23/23,CUST401,First-time Buyer,14.57896103279319,South,No Promotion,1,1
+ORD1210,Groceries,Consumer,PayPal,Canceled,3,156.94451593510044,470.83354780530135,12/9/23,CUST647,Regular Customer,29.03618524031404,South,Flash Sale,4,5
+ORD1211,Sports Equipment,Consumer,Credit Card,Canceled,4,112.22374702825284,448.8949881130114,8/12/23,CUST869,Loyal Customer,11.322936451685553,West,No Promotion,5,2
+ORD1212,Clothing,Corporate,Cash on Delivery,Shipped,1,315.45039554349273,315.45039554349273,8/13/23,CUST109,Regular Customer,5.721110691278468,East,Seasonal Sale,4,4
+ORD1213,Groceries,Corporate,Cash on Delivery,Pending,2,245.8959445,491.791889,5/6/23,CUST346,Loyal Customer,7.250968012,North,Seasonal Sale,2,5
+ORD1214,Books,Corporate,PayPal,Shipped,1,425.4516221120535,425.4516221120535,5/10/23,CUST300,Regular Customer,10.525943841460185,West,Flash Sale,7,4
+ORD1215,Sports Equipment,Consumer,Cash on Delivery,Pending,3,233.49765193281888,700.4929557984567,2/22/23,CUST699,First-time Buyer,11.250236214674185,West,Bundle Discount,1,2
+ORD1216,Electronics,Corporate,Credit Card,Canceled,2,177.04584001016585,354.0916800203317,6/21/23,CUST943,First-time Buyer,22.82039227,North,Seasonal Sale,8,2
+ORD1217,Groceries,Consumer,PayPal,Canceled,3,264.94961219595956,794.8488365878786,8/6/23,CUST814,Loyal Customer,27.026253477277994,South,Seasonal Sale,3,1
+ORD1218,Sports Equipment,Corporate,Bank Transfer,Canceled,1,84.88765374651187,84.88765374651187,6/9/23,CUST514,First-time Buyer,13.859777356610223,South,Bundle Discount,8,2
+ORD1219,Books,Corporate,PayPal,Canceled,4,481.7810585621723,1927.1242342486892,7/17/23,CUST194,Regular Customer,28.135692633710775,West,Flash Sale,4,3
+ORD1220,Clothing,Corporate,PayPal,Completed,4,28.34347268489152,113.37389073956608,9/4/23,CUST372,First-time Buyer,9.265651690447168,East,No Promotion,4,1
+ORD1221,Groceries,Consumer,PayPal,Shipped,3,367.8952356631039,1103.6857069893117,11/20/23,CUST355,First-time Buyer,14.713652327078865,East,Bundle Discount,4,2
+ORD1222,Furniture,Corporate,Cash on Delivery,Completed,5,415.06119798810664,2075.3059899405334,7/22/23,CUST545,Regular Customer,5.251210783243966,West,No Promotion,9,4
+ORD1223,Sports Equipment,Corporate,Cash on Delivery,Completed,5,134.53472253704211,672.6736126852106,7/3/23,CUST138,Regular Customer,17.66969033745164,South,No Promotion,5,5
+ORD1224,Clothing,Consumer,Cash on Delivery,Canceled,3,376.95404418909413,1130.8621325672825,5/3/23,CUST811,Loyal Customer,9.615440670448617,North,No Promotion,7,3
+ORD1225,Books,Corporate,Credit Card,Canceled,3,429.16336018002374,1287.4900805400712,9/12/23,CUST187,Regular Customer,20.280335201408228,East,No Promotion,8,5
+ORD1226,Books,Consumer,PayPal,Shipped,5,91.18385189048016,455.91925945240075,10/21/23,CUST604,Loyal Customer,8.818497076446159,South,Seasonal Sale,3,1
+ORD1227,Sports Equipment,Corporate,Credit Card,Canceled,2,48.16893901301888,96.33787802603776,10/7/23,CUST575,Loyal Customer,19.805594642893883,North,No Promotion,9,4
+ORD1228,Clothing,Consumer,Cash on Delivery,Completed,3,149.55991094834272,448.6797328450282,11/21/23,CUST616,Regular Customer,5.480919641690569,South,Seasonal Sale,10,5
+ORD1229,Sports Equipment,Consumer,Credit Card,Shipped,5,37.32583188378985,186.62915941894926,4/8/23,CUST308,Loyal Customer,13.743544928848888,West,No Promotion,10,3
+ORD1230,Groceries,Corporate,Bank Transfer,Canceled,5,84.10000236100912,420.5000118050456,7/17/23,CUST918,Loyal Customer,22.71070614759761,East,Seasonal Sale,2,4
+ORD1231,Clothing,Corporate,Bank Transfer,Shipped,3,170.3095384,510.9286152,8/28/23,CUST937,First-time Buyer,15.246777505880264,South,Bundle Discount,5,2
+ORD1232,Furniture,Corporate,Cash on Delivery,Canceled,2,324.6224720138573,649.2449440277146,5/24/23,CUST585,Regular Customer,24.458075982226998,East,No Promotion,5,4
+ORD1233,Clothing,Consumer,PayPal,Canceled,4,295.46766805374017,1181.8706722149607,4/7/23,CUST582,Loyal Customer,26.89081078739854,South,No Promotion,3,1
+ORD1234,Furniture,Corporate,Bank Transfer,Completed,1,387.74318782714295,387.74318782714295,7/20/23,CUST456,Loyal Customer,11.298120370168593,East,Bundle Discount,9,3
+ORD1235,Sports Equipment,Corporate,PayPal,Canceled,5,450.55600720987184,2252.7800360493593,5/4/23,CUST478,Loyal Customer,13.117955866405332,West,No Promotion,8,4
+ORD1236,Sports Equipment,Consumer,PayPal,Shipped,5,393.52384797957785,1967.6192398978892,7/6/23,CUST578,Loyal Customer,27.486250483568675,East,Bundle Discount,1,3
+ORD1237,Furniture,Consumer,Cash on Delivery,Shipped,4,471.0449562533627,1884.179825013451,11/22/23,CUST624,Loyal Customer,10.492089536573367,South,No Promotion,1,5
+ORD1238,Clothing,Corporate,Credit Card,Canceled,2,159.1467971313457,318.2935942626914,12/15/23,CUST438,Regular Customer,26.206047662062907,North,No Promotion,3,1
+ORD1239,Books,Corporate,Cash on Delivery,Canceled,2,192.20583017006578,384.41166034013156,9/16/23,CUST806,Regular Customer,10.495858095078088,West,Bundle Discount,2,3
+ORD1240,Groceries,Corporate,Bank Transfer,Shipped,3,214.39335667147574,643.1800700144272,5/28/23,CUST268,Regular Customer,10.791206185664347,East,No Promotion,8,4
+ORD1241,Clothing,Consumer,PayPal,Completed,4,118.81790683768213,475.2716273507285,9/9/23,CUST602,Regular Customer,6.809483100352729,North,Bundle Discount,5,2
+ORD1242,Electronics,Corporate,Cash on Delivery,Pending,2,32.73972611,65.47945221,12/12/23,CUST827,First-time Buyer,22.99701051,North,Flash Sale,4,1
+ORD1243,Furniture,Corporate,PayPal,Pending,1,424.64796584058445,424.64796584058445,5/27/23,CUST857,First-time Buyer,24.890044945810892,North,Flash Sale,7,1
+ORD1244,Books,Corporate,Bank Transfer,Completed,5,208.92406464705502,1044.620323235275,5/28/23,CUST897,Regular Customer,16.246385305667534,East,No Promotion,8,5
+ORD1245,Electronics,Corporate,Cash on Delivery,Shipped,4,264.79075762110904,1059.1630304844361,12/18/23,CUST761,Loyal Customer,17.357147397882095,East,Seasonal Sale,2,2
+ORD1246,Electronics,Corporate,Cash on Delivery,Completed,2,178.6669835,357.3339671,7/18/23,CUST266,First-time Buyer,23.97103403,North,No Promotion,8,2
+ORD1247,Books,Corporate,Credit Card,Canceled,1,183.21370669519177,183.21370669519177,11/4/23,CUST917,First-time Buyer,6.7790229410750396,East,No Promotion,1,5
+ORD1248,Books,Corporate,Bank Transfer,Completed,4,189.52635009564656,758.1054003825863,5/8/23,CUST704,Loyal Customer,9.179865682265664,East,No Promotion,6,5
+ORD1249,Groceries,Corporate,Credit Card,Pending,3,153.02460313329104,459.0738093998731,2/8/23,CUST260,First-time Buyer,20.74569401284653,West,Seasonal Sale,5,1
+ORD1250,Clothing,Corporate,Cash on Delivery,Shipped,3,324.9382358137393,974.8147074412179,12/4/23,CUST267,Regular Customer,12.337789384817345,East,Bundle Discount,3,5
+ORD1251,Furniture,Consumer,PayPal,Shipped,4,490.52925973215605,1962.1170389286242,12/26/23,CUST486,First-time Buyer,17.38684405854334,North,Flash Sale,2,2
+ORD1252,Sports Equipment,Corporate,Cash on Delivery,Completed,3,228.19600941633493,684.5880282490048,5/9/23,CUST889,Loyal Customer,13.160600117847594,East,Seasonal Sale,6,2
+ORD1253,Clothing,Consumer,Cash on Delivery,Pending,5,113.85728758314802,569.2864379157401,9/24/23,CUST714,Loyal Customer,5.622400532365686,North,Seasonal Sale,6,3
+ORD1254,Groceries,Consumer,Credit Card,Canceled,4,262.3736684214359,1049.4946736857437,5/31/23,CUST107,Regular Customer,17.31179407890646,West,Seasonal Sale,6,4
+ORD1255,Clothing,Consumer,Bank Transfer,Pending,3,195.86721272569355,587.6016381770806,10/25/23,CUST932,First-time Buyer,5.020883202902203,West,Flash Sale,4,1
+ORD1256,Groceries,Consumer,Cash on Delivery,Pending,5,331.3797718084295,1656.8988590421475,4/9/23,CUST210,Regular Customer,11.062414458692995,North,Bundle Discount,1,2
+ORD1257,Books,Corporate,Credit Card,Completed,4,97.08061894554092,388.3224757821637,9/20/23,CUST456,Loyal Customer,9.731830988,West,Flash Sale,8,4
+ORD1258,Books,Consumer,Cash on Delivery,Completed,4,400.17332168132185,1600.6932867252874,9/9/23,CUST175,Regular Customer,7.712883217820606,West,Seasonal Sale,7,1
+ORD1259,Groceries,Corporate,Bank Transfer,Shipped,4,38.869387552325506,155.47755020930202,5/24/23,CUST237,First-time Buyer,24.605485643663627,North,Bundle Discount,6,5
+ORD1260,Groceries,Corporate,PayPal,Pending,5,274.11703137016497,1370.585156850825,12/12/23,CUST465,First-time Buyer,10.64213628703125,West,Flash Sale,3,1
+ORD1261,Electronics,Corporate,Cash on Delivery,Pending,2,20.934561605069504,41.86912321013901,4/22/23,CUST127,Loyal Customer,17.288569467517718,South,Seasonal Sale,9,2
+ORD1262,Sports Equipment,Corporate,Bank Transfer,Completed,3,495.68611042156476,1487.0583312646943,3/1/23,CUST305,Regular Customer,20.579230582026824,West,Bundle Discount,9,1
+ORD1263,Furniture,Corporate,PayPal,Canceled,4,36.231990172519716,144.92796069007886,1/2/23,CUST355,Loyal Customer,25.68311236007397,West,Seasonal Sale,3,3
+ORD1264,Groceries,Corporate,Cash on Delivery,Pending,5,15.92971820291056,79.64859101,10/31/23,CUST611,Loyal Customer,14.611372250203248,East,Bundle Discount,3,1
+ORD1265,Books,Consumer,Cash on Delivery,Canceled,2,108.34132175994385,216.6826435198877,9/11/23,CUST332,Regular Customer,24.07999417732132,West,Seasonal Sale,5,1
+ORD1266,Electronics,Consumer,Cash on Delivery,Completed,1,409.8273002750203,409.8273002750203,5/20/23,CUST244,First-time Buyer,11.038758334466158,East,Seasonal Sale,8,4
+ORD1267,Electronics,Consumer,Cash on Delivery,Canceled,5,234.2835178,1171.417588886675,2/6/23,CUST843,Regular Customer,22.537263147961614,East,Bundle Discount,3,2
+ORD1268,Clothing,Corporate,Bank Transfer,Shipped,5,488.7074349293915,2443.5371746469577,6/9/23,CUST812,Regular Customer,26.63395268349987,East,Seasonal Sale,3,1
+ORD1269,Books,Corporate,Bank Transfer,Shipped,1,332.8451766105636,332.8451766105636,1/9/23,CUST212,Loyal Customer,14.246043098531405,North,Bundle Discount,6,3
+ORD1270,Clothing,Consumer,Credit Card,Completed,4,174.04552228517278,696.1820891406911,8/21/23,CUST990,First-time Buyer,19.15184573656275,West,No Promotion,1,5
+ORD1271,Sports Equipment,Corporate,Credit Card,Shipped,5,37.20960920602516,186.04804603012582,4/9/23,CUST675,Regular Customer,27.482619285219783,East,No Promotion,4,4
+ORD1272,Groceries,Corporate,Bank Transfer,Canceled,5,308.8948063226974,1544.4740316134869,5/27/23,CUST187,Regular Customer,19.081018101258202,North,Flash Sale,7,5
+ORD1273,Sports Equipment,Consumer,Cash on Delivery,Pending,4,93.73696353482934,374.94785413931737,10/31/23,CUST982,Regular Customer,23.73532797726105,West,Bundle Discount,5,1
+ORD1274,Furniture,Consumer,Cash on Delivery,Completed,5,260.3644312928508,1301.822156464254,7/27/23,CUST500,Loyal Customer,20.949063928808236,South,Seasonal Sale,9,1
+ORD1275,Clothing,Consumer,Credit Card,Shipped,3,138.97530748683997,416.9259224605199,5/11/23,CUST333,First-time Buyer,23.36678724,East,No Promotion,2,1
+ORD1276,Sports Equipment,Corporate,Cash on Delivery,Canceled,2,183.43978866671827,366.87957733343654,6/1/23,CUST265,First-time Buyer,14.849234427921283,West,Bundle Discount,6,3
+ORD1277,Books,Corporate,Cash on Delivery,Pending,1,338.4147462828816,338.4147462828816,2/23/23,CUST610,Regular Customer,6.116698915833439,West,Flash Sale,8,1
+ORD1278,Furniture,Corporate,PayPal,Completed,4,486.68378137070636,1946.7351254828254,4/30/23,CUST483,First-time Buyer,24.21038414358141,West,Flash Sale,9,3
+ORD1279,Clothing,Corporate,PayPal,Shipped,3,407.72185145509235,1223.165554365277,6/10/23,CUST736,Loyal Customer,11.516845556407308,East,No Promotion,9,3
+ORD1280,Furniture,Corporate,Bank Transfer,Pending,5,420.56625874156947,2102.831293707847,4/26/23,CUST844,Loyal Customer,14.88748185683902,West,No Promotion,3,3
+ORD1281,Furniture,Corporate,Bank Transfer,Canceled,1,134.81873373840614,134.81873373840614,3/16/23,CUST523,Regular Customer,9.059590736,West,Flash Sale,4,1
+ORD1282,Books,Corporate,PayPal,Completed,5,479.1908777275668,2395.9543886378337,4/23/23,CUST836,Regular Customer,25.09418869572345,West,Seasonal Sale,9,4
+ORD1283,Clothing,Consumer,Credit Card,Pending,4,271.31843955630757,1085.2737582252303,4/14/23,CUST502,Regular Customer,25.566382346536265,South,Flash Sale,8,2
+ORD1284,Clothing,Consumer,Cash on Delivery,Completed,2,449.7470479,899.4940958,12/6/23,CUST412,Regular Customer,16.82027430996338,North,Flash Sale,6,4
+ORD1285,Electronics,Consumer,Cash on Delivery,Pending,4,341.5166306276214,1366.0665225104856,9/11/23,CUST645,Loyal Customer,7.824970448542083,South,Seasonal Sale,6,5
+ORD1286,Sports Equipment,Consumer,Cash on Delivery,Completed,4,280.4365764464199,1121.7463057856796,8/15/23,CUST319,First-time Buyer,21.790341425323852,North,No Promotion,3,2
+ORD1287,Sports Equipment,Consumer,Cash on Delivery,Canceled,1,39.788824258122766,39.788824258122766,4/22/23,CUST910,Regular Customer,22.905411516453633,North,Flash Sale,3,3
+ORD1288,Furniture,Corporate,Credit Card,Canceled,2,439.96968271911743,879.9393654382349,4/9/23,CUST952,Loyal Customer,10.640317103283564,West,Bundle Discount,1,5
+ORD1289,Clothing,Corporate,Cash on Delivery,Completed,4,429.6209731321234,1718.4838925284937,6/2/23,CUST309,Loyal Customer,23.828578082734698,East,Bundle Discount,5,3
+ORD1290,Sports Equipment,Consumer,Bank Transfer,Shipped,2,347.28961406694754,694.5792281338951,12/15/23,CUST752,First-time Buyer,5.681852710050493,East,No Promotion,9,5
+ORD1291,Clothing,Corporate,Credit Card,Canceled,2,446.2980712882704,892.5961425765408,12/4/23,CUST627,Loyal Customer,22.206325983758752,North,No Promotion,3,1
+ORD1292,Sports Equipment,Corporate,Cash on Delivery,Shipped,2,295.4606803487883,590.9213606975766,7/13/23,CUST721,Regular Customer,23.773186926480975,South,Seasonal Sale,6,2
+ORD1293,Clothing,Corporate,PayPal,Shipped,1,48.420956334720984,48.420956334720984,11/6/23,CUST778,Regular Customer,8.107538209594814,North,No Promotion,8,3
+ORD1294,Sports Equipment,Corporate,Credit Card,Canceled,1,172.60523575074566,172.60523575074566,6/12/23,CUST817,Regular Customer,13.082459727122318,North,Flash Sale,8,1
+ORD1295,Electronics,Consumer,Cash on Delivery,Shipped,3,371.82995638256324,1115.4898691476897,7/27/23,CUST495,Loyal Customer,11.876564426954083,West,Bundle Discount,8,5
+ORD1296,Electronics,Corporate,Credit Card,Canceled,5,485.0873026043403,2425.4365130217016,6/18/23,CUST128,Loyal Customer,7.103766920842789,South,Seasonal Sale,8,5
+ORD1297,Groceries,Consumer,Credit Card,Completed,2,200.2463837655911,400.4927675311822,6/10/23,CUST179,First-time Buyer,26.849355100246072,North,No Promotion,1,4
+ORD1298,Books,Consumer,PayPal,Completed,2,148.05168779487826,296.1033755897565,3/9/23,CUST870,Loyal Customer,29.758494778088306,West,No Promotion,9,5
+ORD1299,Sports Equipment,Corporate,Cash on Delivery,Shipped,3,354.8807311360483,1064.642193408145,10/16/23,CUST507,Regular Customer,11.010591300970844,West,Bundle Discount,5,3
+ORD1300,Clothing,Consumer,Cash on Delivery,Shipped,2,220.8687406806764,441.7374813613528,10/4/23,CUST329,Regular Customer,17.345861789307243,South,Flash Sale,7,2
+ORD1301,Sports Equipment,Corporate,Bank Transfer,Completed,2,151.3568330719386,302.7136661438772,10/31/23,CUST123,Loyal Customer,17.77088668,North,Bundle Discount,2,4
+ORD1302,Sports Equipment,Corporate,PayPal,Completed,2,137.4284029951247,274.8568059902494,5/15/23,CUST257,Loyal Customer,8.663764313854815,East,No Promotion,8,4
+ORD1303,Groceries,Consumer,Bank Transfer,Pending,2,201.5488594449541,403.0977188899082,7/14/23,CUST249,Loyal Customer,5.855018544316155,South,Bundle Discount,2,4
+ORD1304,Electronics,Consumer,Bank Transfer,Canceled,5,23.895251994899347,119.47625997449674,5/8/23,CUST737,Loyal Customer,9.562770383883336,West,Seasonal Sale,9,5
+ORD1305,Books,Consumer,PayPal,Canceled,3,145.61739580555678,436.85218741667035,2/2/23,CUST734,First-time Buyer,17.016367881328215,West,Bundle Discount,1,5
+ORD1306,Groceries,Consumer,Credit Card,Pending,3,183.39544464752763,550.1863339425829,6/25/23,CUST292,Regular Customer,25.12861535014431,South,No Promotion,4,5
+ORD1307,Furniture,Corporate,Bank Transfer,Pending,2,365.2383575,730.476715,1/22/23,CUST634,First-time Buyer,27.67101295251786,North,Flash Sale,9,3
+ORD1308,Groceries,Consumer,Cash on Delivery,Pending,1,84.16814936444003,84.16814936444003,8/26/23,CUST168,First-time Buyer,22.246096973457128,West,No Promotion,8,1
+ORD1309,Furniture,Consumer,Bank Transfer,Pending,4,195.3131883666977,781.2527534667908,6/7/23,CUST949,Regular Customer,27.32994139109862,West,Seasonal Sale,4,4
+ORD1310,Groceries,Corporate,Cash on Delivery,Canceled,1,237.08400147593093,237.08400147593093,2/7/23,CUST639,Loyal Customer,5.164263682471996,East,Flash Sale,9,2
+ORD1311,Electronics,Consumer,Bank Transfer,Pending,5,476.2289567368343,2381.144783684171,8/18/23,CUST675,First-time Buyer,29.691067721472866,North,Seasonal Sale,2,3
+ORD1312,Clothing,Corporate,Bank Transfer,Completed,1,321.5455537460981,321.5455537460981,12/31/23,CUST172,Loyal Customer,14.90594976,South,Flash Sale,8,2
+ORD1313,Sports Equipment,Consumer,Cash on Delivery,Completed,1,343.2628219874749,343.2628219874749,2/20/23,CUST732,First-time Buyer,5.233827829716474,East,Bundle Discount,4,1
+ORD1314,Sports Equipment,Consumer,Credit Card,Shipped,5,154.1112483566255,770.5562417831276,9/21/23,CUST867,First-time Buyer,12.286149576999893,North,No Promotion,4,5
+ORD1315,Books,Corporate,Cash on Delivery,Canceled,3,476.0097314851089,1428.0291944553267,10/10/23,CUST177,First-time Buyer,18.022600977639634,West,Flash Sale,7,5
+ORD1316,Books,Corporate,Credit Card,Pending,1,250.33020650374118,250.33020650374118,1/27/23,CUST570,Loyal Customer,6.345652174990727,North,Bundle Discount,7,2
+ORD1317,Groceries,Consumer,Cash on Delivery,Shipped,2,384.22735621734586,768.4547124346917,8/14/23,CUST968,First-time Buyer,23.366058366086335,North,No Promotion,7,1
+ORD1318,Electronics,Consumer,PayPal,Canceled,5,241.19178194257614,1205.9589097128808,10/4/23,CUST793,Loyal Customer,29.164014317070205,West,Flash Sale,7,1
+ORD1319,Clothing,Consumer,Credit Card,Canceled,4,154.7133795237058,618.8535180948232,10/13/23,CUST710,Loyal Customer,6.471211562659963,East,No Promotion,1,4
+ORD1320,Books,Consumer,Bank Transfer,Pending,3,361.7816482478844,1085.3449447436533,4/7/23,CUST884,Regular Customer,23.02017866680796,North,Seasonal Sale,4,4
+ORD1321,Books,Consumer,Bank Transfer,Completed,4,458.21487808255034,1832.8595123302014,10/11/23,CUST638,Regular Customer,16.414452436134034,South,Bundle Discount,9,1
+ORD1322,Books,Corporate,PayPal,Completed,1,360.0687415617141,360.0687415617141,11/13/23,CUST470,First-time Buyer,25.088707420186523,North,Flash Sale,2,3
+ORD1323,Groceries,Corporate,PayPal,Shipped,3,49.586198056388284,148.75859416916484,10/31/23,CUST459,Regular Customer,13.63151133211366,North,Flash Sale,4,5
+ORD1324,Clothing,Consumer,Credit Card,Completed,4,184.34128949869566,737.3651579947826,5/27/23,CUST896,Regular Customer,26.082263080260567,North,Bundle Discount,7,1
+ORD1325,Electronics,Corporate,Bank Transfer,Shipped,3,202.11019212901098,606.3305763870329,1/4/23,CUST683,Loyal Customer,9.437248248225748,West,No Promotion,4,2
+ORD1326,Books,Corporate,PayPal,Completed,2,93.72925287,187.4585057325506,2/4/23,CUST323,Regular Customer,11.569475755419692,West,No Promotion,5,1
+ORD1327,Electronics,Consumer,Credit Card,Completed,4,295.6304171266936,1182.5216685067744,7/11/23,CUST351,Loyal Customer,28.777217602162544,East,No Promotion,9,1
+ORD1328,Furniture,Consumer,Cash on Delivery,Canceled,3,214.16854079418826,642.5056223825648,2/18/23,CUST243,Loyal Customer,8.962932143578186,West,Seasonal Sale,2,3
+ORD1329,Groceries,Corporate,Bank Transfer,Completed,4,292.59573758449676,1170.382950337987,1/17/23,CUST615,First-time Buyer,9.412415015862521,East,No Promotion,5,4
+ORD1330,Furniture,Consumer,Bank Transfer,Shipped,3,452.47244519944564,1357.4173355983369,6/21/23,CUST687,Regular Customer,14.415833606412665,West,Flash Sale,4,2
+ORD1331,Books,Consumer,Credit Card,Completed,2,100.77485600039904,201.54971200079808,8/8/23,CUST292,Regular Customer,24.107753701148287,West,Seasonal Sale,8,2
+ORD1332,Books,Corporate,Cash on Delivery,Canceled,1,234.14782209027058,234.14782209027058,6/7/23,CUST815,Regular Customer,11.964839541084656,South,Bundle Discount,10,5
+ORD1333,Electronics,Consumer,Credit Card,Completed,4,142.15750096379395,568.6300038551758,2/15/23,CUST622,Loyal Customer,18.113592755534086,East,Seasonal Sale,1,3
+ORD1334,Clothing,Corporate,Cash on Delivery,Completed,5,345.8880176,1729.440088154035,1/6/23,CUST256,Loyal Customer,16.05803129206187,North,No Promotion,10,2
+ORD1335,Groceries,Consumer,Credit Card,Pending,2,403.02688996304823,806.0537799260965,4/9/23,CUST665,Loyal Customer,24.716834681097218,West,Bundle Discount,5,5
+ORD1336,Groceries,Corporate,Bank Transfer,Pending,2,330.39696370996035,660.7939274199207,8/21/23,CUST851,Regular Customer,29.359745005051618,West,Bundle Discount,4,1
+ORD1337,Electronics,Consumer,Credit Card,Canceled,3,297.5756168442716,892.7268505328149,2/6/23,CUST599,Loyal Customer,27.49643397322046,West,No Promotion,4,1
+ORD1338,Electronics,Consumer,Bank Transfer,Pending,2,183.94685246067993,367.89370492135987,10/7/23,CUST852,Regular Customer,29.666982477129018,East,Flash Sale,8,3
+ORD1339,Clothing,Corporate,PayPal,Canceled,4,311.40087487591666,1245.6034995036666,12/15/23,CUST655,Loyal Customer,14.961813368273262,West,Flash Sale,5,5
+ORD1340,Sports Equipment,Corporate,Credit Card,Pending,3,378.2363026828779,1134.7089080486337,10/29/23,CUST172,Regular Customer,13.21437383,East,No Promotion,3,5
+ORD1341,Books,Corporate,Cash on Delivery,Completed,5,291.42225255668734,1457.1112627834368,6/30/23,CUST442,Loyal Customer,26.868316122452676,North,Seasonal Sale,2,5
+ORD1342,Furniture,Corporate,PayPal,Pending,2,146.27610746120644,292.5522149224129,4/5/23,CUST622,First-time Buyer,6.846899591197646,West,Flash Sale,3,4
+ORD1343,Electronics,Consumer,Credit Card,Canceled,1,431.0871888472509,431.0871888472509,4/9/23,CUST520,Loyal Customer,11.581711204066195,West,No Promotion,6,2
+ORD1344,Groceries,Consumer,PayPal,Shipped,1,447.0399833,447.0399833,7/7/23,CUST979,Loyal Customer,11.066276994013009,North,Flash Sale,4,3
+ORD1345,Electronics,Corporate,Credit Card,Pending,4,336.0970757627827,1344.3883030511308,4/26/23,CUST443,Loyal Customer,21.337286046561744,East,No Promotion,9,5
+ORD1346,Groceries,Consumer,Cash on Delivery,Shipped,3,253.34791871359297,760.0437561407789,7/10/23,CUST350,Loyal Customer,13.427117963423566,North,No Promotion,10,2
+ORD1347,Furniture,Consumer,PayPal,Canceled,4,228.56205495868318,914.2482198347327,9/10/23,CUST991,Loyal Customer,5.265566179284963,East,Bundle Discount,10,5
+ORD1348,Books,Consumer,Cash on Delivery,Shipped,3,418.4164402968844,1255.249320890653,6/10/23,CUST541,First-time Buyer,8.523073894912699,East,Seasonal Sale,7,2
+ORD1349,Groceries,Corporate,Cash on Delivery,Shipped,5,94.36877983279916,471.84389916399584,9/13/23,CUST539,First-time Buyer,21.574737838630426,West,Bundle Discount,4,3
+ORD1350,Books,Consumer,Cash on Delivery,Shipped,2,330.76513121330413,661.5302624266083,11/19/23,CUST469,First-time Buyer,27.467677780278272,West,Flash Sale,1,5
+ORD1351,Clothing,Corporate,Cash on Delivery,Completed,4,283.82534470486996,1135.3013788194799,5/8/23,CUST715,First-time Buyer,15.213319844699637,South,Bundle Discount,8,2
+ORD1352,Groceries,Corporate,Credit Card,Completed,1,257.84660414469425,257.84660414469425,1/18/23,CUST600,First-time Buyer,10.837821949242292,East,Flash Sale,2,2
+ORD1353,Sports Equipment,Consumer,Cash on Delivery,Pending,1,34.85162764250175,34.85162764250175,10/8/23,CUST982,Loyal Customer,26.811123848987968,East,No Promotion,10,1
+ORD1354,Electronics,Corporate,Cash on Delivery,Canceled,1,227.16363042428998,227.16363042428998,8/11/23,CUST526,Loyal Customer,8.544931870308154,East,Bundle Discount,2,2
+ORD1355,Clothing,Consumer,Cash on Delivery,Pending,4,214.74165968422335,858.9666387368934,2/23/23,CUST777,First-time Buyer,20.13695654020573,North,Bundle Discount,10,1
+ORD1356,Clothing,Corporate,Credit Card,Completed,4,21.326074184309064,85.30429673723626,2/27/23,CUST348,Loyal Customer,6.975271708744914,South,Bundle Discount,8,5
+ORD1357,Clothing,Corporate,Credit Card,Completed,1,114.16352832295875,114.16352832295875,11/19/23,CUST771,Regular Customer,24.909535582088342,North,Flash Sale,5,5
+ORD1358,Sports Equipment,Corporate,Bank Transfer,Completed,1,343.7140845958506,343.7140845958506,12/26/23,CUST361,Regular Customer,26.50534834170316,South,No Promotion,6,4
+ORD1359,Sports Equipment,Corporate,Bank Transfer,Completed,4,144.75022063338255,579.0008825335302,6/23/23,CUST907,First-time Buyer,13.32542291,South,No Promotion,9,1
+ORD1360,Furniture,Consumer,Cash on Delivery,Completed,5,241.20690137772505,1206.0345068886252,10/7/23,CUST328,Regular Customer,11.396763403262405,West,Seasonal Sale,6,5
+ORD1361,Sports Equipment,Consumer,PayPal,Pending,4,342.9016933946124,1371.6067735784495,4/24/23,CUST899,Loyal Customer,25.10993289241771,South,Bundle Discount,5,1
+ORD1362,Books,Consumer,Bank Transfer,Canceled,4,332.2703613372752,1329.0814453491007,10/15/23,CUST570,First-time Buyer,17.902781865165846,North,Seasonal Sale,4,5
+ORD1363,Clothing,Consumer,Bank Transfer,Canceled,4,54.02859697097022,216.11438788388088,12/8/23,CUST228,Regular Customer,27.942369550171247,North,Bundle Discount,5,3
+ORD1364,Electronics,Corporate,Credit Card,Shipped,3,333.35254355635357,1000.0576306690607,5/31/23,CUST860,First-time Buyer,18.49314225050977,East,No Promotion,1,3
+ORD1365,Sports Equipment,Consumer,Cash on Delivery,Completed,3,79.95954279228143,239.8786283768443,5/7/23,CUST328,First-time Buyer,7.558797193760018,East,Flash Sale,1,2
+ORD1366,Furniture,Consumer,Cash on Delivery,Canceled,5,469.7226597726582,2348.6132988632908,6/4/23,CUST503,First-time Buyer,25.806779941147045,West,Flash Sale,2,5
+ORD1367,Sports Equipment,Consumer,Bank Transfer,Shipped,2,169.0244020884942,338.0488041769884,9/30/23,CUST566,First-time Buyer,18.55511106707216,West,No Promotion,6,5
+ORD1368,Sports Equipment,Consumer,Bank Transfer,Pending,5,158.91577220518676,794.5788610259337,4/14/23,CUST124,Regular Customer,21.725854260672694,East,Bundle Discount,2,1
+ORD1369,Groceries,Consumer,Credit Card,Pending,3,152.64815760687773,457.9444728206332,10/26/23,CUST162,Loyal Customer,26.40936176639227,South,Seasonal Sale,8,2
+ORD1370,Sports Equipment,Consumer,Bank Transfer,Pending,5,135.0869537390256,675.4347687,9/3/23,CUST818,Regular Customer,19.287086219179535,North,Seasonal Sale,5,2
+ORD1371,Books,Corporate,Cash on Delivery,Shipped,1,226.44545083630672,226.44545083630672,6/25/23,CUST365,Regular Customer,27.14641642794102,South,Seasonal Sale,9,2
+ORD1372,Electronics,Corporate,Cash on Delivery,Completed,2,371.75732828682084,743.5146565736417,2/8/23,CUST545,Loyal Customer,15.111695202733854,South,Seasonal Sale,5,4
+ORD1373,Electronics,Corporate,Bank Transfer,Canceled,5,496.2623487383502,2481.311743691751,6/19/23,CUST594,First-time Buyer,6.700849482376956,West,Flash Sale,1,4
+ORD1374,Clothing,Consumer,PayPal,Shipped,5,110.9903694486005,554.9518472430025,9/4/23,CUST607,Loyal Customer,7.997096674225702,North,Seasonal Sale,5,4
+ORD1375,Clothing,Consumer,Credit Card,Canceled,1,218.2264169814103,218.2264169814103,1/26/23,CUST841,Loyal Customer,25.578706983025373,North,Seasonal Sale,10,4
+ORD1376,Sports Equipment,Consumer,Cash on Delivery,Completed,5,448.34821463571143,2241.741073178557,12/21/23,CUST723,Loyal Customer,5.414983139881733,South,Flash Sale,5,1
+ORD1377,Books,Corporate,Bank Transfer,Pending,4,173.94858767525034,695.7943507010013,11/2/23,CUST282,Regular Customer,26.125074864246233,North,Flash Sale,8,1
+ORD1378,Books,Corporate,Credit Card,Completed,2,111.75938177369103,223.51876354738206,1/13/23,CUST780,Regular Customer,17.66241629360994,East,Seasonal Sale,5,3
+ORD1379,Groceries,Consumer,PayPal,Completed,5,274.9737669167905,1374.8688345839525,11/12/23,CUST367,Regular Customer,21.04708350401413,East,Bundle Discount,2,5
+ORD1380,Sports Equipment,Consumer,Bank Transfer,Pending,3,328.4546358,985.3639073,11/9/23,CUST370,Loyal Customer,10.616997871826642,South,No Promotion,6,4
+ORD1381,Clothing,Consumer,PayPal,Completed,5,412.18073943639655,2060.903697181983,2/5/23,CUST196,First-time Buyer,22.437377451262282,South,No Promotion,6,3
+ORD1382,Furniture,Corporate,Bank Transfer,Completed,1,463.6497136961032,463.6497136961032,6/22/23,CUST869,Loyal Customer,26.122792017243817,East,Bundle Discount,10,5
+ORD1383,Books,Corporate,Bank Transfer,Completed,3,321.44915747035094,964.3474724110529,1/20/23,CUST352,Loyal Customer,11.234926099849627,South,Seasonal Sale,1,2
+ORD1384,Electronics,Consumer,PayPal,Pending,5,199.2797078650094,996.3985393250471,11/17/23,CUST973,First-time Buyer,9.608294577390122,West,Bundle Discount,2,3
+ORD1385,Books,Corporate,Cash on Delivery,Completed,1,388.38059933641233,388.38059933641233,9/21/23,CUST744,Regular Customer,11.388424805918758,East,Seasonal Sale,2,2
+ORD1386,Clothing,Consumer,Cash on Delivery,Pending,3,201.6680682743128,605.0042048229384,5/22/23,CUST812,Regular Customer,23.649938825143877,South,Flash Sale,2,3
+ORD1387,Furniture,Consumer,Bank Transfer,Pending,2,438.55771862591905,877.1154372518381,5/23/23,CUST701,First-time Buyer,6.819945286201008,West,Flash Sale,5,3
+ORD1388,Sports Equipment,Consumer,Credit Card,Completed,2,417.89735061098685,835.7947012219737,4/2/23,CUST796,Regular Customer,21.491413378007607,South,Seasonal Sale,6,2
+ORD1389,Electronics,Consumer,Cash on Delivery,Pending,1,218.87280361722742,218.87280361722742,12/20/23,CUST726,Loyal Customer,9.733130512150655,North,Bundle Discount,5,3
+ORD1390,Groceries,Consumer,PayPal,Completed,5,171.67257010393433,858.3628505196716,11/18/23,CUST242,Regular Customer,11.646588948698387,South,Flash Sale,1,3
+ORD1391,Sports Equipment,Corporate,PayPal,Shipped,5,479.4539532041705,2397.2697660208523,10/15/23,CUST957,Regular Customer,27.098733905949487,West,Flash Sale,5,4
+ORD1392,Books,Consumer,Cash on Delivery,Shipped,4,172.0575210401594,688.2300841606376,8/3/23,CUST270,Regular Customer,12.702504006893907,South,Bundle Discount,5,2
+ORD1393,Sports Equipment,Consumer,Cash on Delivery,Pending,2,94.86526815717257,189.73053631434513,12/8/23,CUST752,Regular Customer,20.039792386316037,South,Flash Sale,3,3
+ORD1394,Books,Corporate,Credit Card,Completed,2,80.61886960879197,161.23773921758394,2/20/23,CUST871,First-time Buyer,21.574403563448524,South,No Promotion,8,1
+ORD1395,Clothing,Corporate,Bank Transfer,Completed,5,493.4110836681878,2467.055418340939,6/2/23,CUST421,First-time Buyer,8.021918337,East,No Promotion,2,5
+ORD1396,Books,Corporate,Bank Transfer,Completed,5,31.764403110988003,158.8220156,7/5/23,CUST940,Loyal Customer,17.253238715038243,East,No Promotion,5,4
+ORD1397,Books,Corporate,Bank Transfer,Canceled,1,191.4918263,191.4918263,3/4/23,CUST505,First-time Buyer,14.605662775557716,West,Flash Sale,4,1
+ORD1398,Clothing,Consumer,Bank Transfer,Canceled,4,358.3309898084089,1433.3239592336356,7/9/23,CUST693,Regular Customer,8.437924586926744,West,No Promotion,9,1
+ORD1399,Furniture,Corporate,Credit Card,Canceled,2,460.83477872304553,921.6695574460911,5/5/23,CUST356,Loyal Customer,9.682398261583916,East,Flash Sale,9,5
+ORD1400,Sports Equipment,Consumer,PayPal,Pending,3,418.2017063,1254.605118844173,5/30/23,CUST701,First-time Buyer,9.652935583792702,East,Bundle Discount,9,2
+ORD1401,Electronics,Consumer,Cash on Delivery,Canceled,2,451.72803444882175,903.4560688976435,11/10/23,CUST866,First-time Buyer,26.422073525511305,South,Seasonal Sale,2,2
+ORD1402,Furniture,Consumer,Bank Transfer,Pending,1,440.34864431877077,440.34864431877077,2/27/23,CUST703,Loyal Customer,6.041138323136517,East,Bundle Discount,3,4
+ORD1403,Books,Corporate,PayPal,Shipped,4,227.7981476,911.1925902,12/8/23,CUST821,Loyal Customer,19.443581702402483,West,Flash Sale,1,5
+ORD1404,Clothing,Corporate,Bank Transfer,Shipped,4,305.0682885461738,1220.2731541846952,11/1/23,CUST719,Regular Customer,16.840839108124605,North,Flash Sale,3,1
+ORD1405,Electronics,Consumer,Bank Transfer,Canceled,5,60.69676337631583,303.4838168815792,6/29/23,CUST202,First-time Buyer,6.411399982254394,South,Flash Sale,3,4
+ORD1406,Sports Equipment,Consumer,PayPal,Canceled,3,384.7932573050999,1154.379772,6/19/23,CUST372,Loyal Customer,12.970590174437532,South,Flash Sale,8,5
+ORD1407,Clothing,Corporate,PayPal,Shipped,4,242.33317752117307,969.3327100846923,11/22/23,CUST238,Regular Customer,28.82480910454895,North,Bundle Discount,8,1
+ORD1408,Electronics,Corporate,Credit Card,Shipped,4,295.22966223651366,1180.9186489460546,9/28/23,CUST568,First-time Buyer,23.779139775725362,East,Bundle Discount,10,1
+ORD1409,Groceries,Corporate,PayPal,Shipped,2,477.5875226454986,955.1750452909972,2/23/23,CUST894,Regular Customer,10.672521890397249,North,Bundle Discount,4,5
+ORD1410,Groceries,Consumer,Cash on Delivery,Pending,2,221.58473205604034,443.1694641120807,4/11/23,CUST633,Loyal Customer,7.710086090585537,South,Flash Sale,9,2
+ORD1411,Furniture,Consumer,PayPal,Canceled,1,15.720314986980846,15.720314986980846,9/21/23,CUST425,Regular Customer,14.417694478935184,South,Seasonal Sale,2,3
+ORD1412,Groceries,Consumer,Bank Transfer,Pending,1,230.37372201004132,230.37372201004132,2/22/23,CUST448,Loyal Customer,27.533190997332778,East,No Promotion,10,2
+ORD1413,Groceries,Consumer,Bank Transfer,Completed,4,197.46629339423288,789.8651735769315,3/1/23,CUST826,Regular Customer,8.681272498785884,North,Flash Sale,10,2
+ORD1414,Clothing,Consumer,Credit Card,Canceled,5,77.60417756061196,388.0208878030598,4/18/23,CUST962,Loyal Customer,18.65347229916192,West,Flash Sale,7,2
+ORD1415,Furniture,Corporate,Credit Card,Shipped,3,445.02769669539526,1335.0830900861858,1/5/23,CUST845,First-time Buyer,22.460960963102117,East,No Promotion,6,3
+ORD1416,Books,Corporate,Cash on Delivery,Canceled,3,488.29230171035033,1464.876905131051,4/13/23,CUST508,First-time Buyer,29.419662822417386,North,Bundle Discount,8,4
+ORD1417,Books,Corporate,PayPal,Pending,4,262.6219601,1050.487840500628,7/15/23,CUST152,Loyal Customer,9.232749883513312,West,Flash Sale,9,2
+ORD1418,Electronics,Consumer,Cash on Delivery,Shipped,4,399.53042435452517,1598.1216974181007,9/19/23,CUST157,First-time Buyer,28.215852652558176,South,Seasonal Sale,2,2
+ORD1419,Sports Equipment,Corporate,Credit Card,Shipped,4,99.02014147076551,396.08056588306204,12/31/23,CUST170,Loyal Customer,19.051568240265947,West,Seasonal Sale,8,1
+ORD1420,Electronics,Corporate,Bank Transfer,Shipped,1,428.57745251971465,428.57745251971465,12/16/23,CUST441,Loyal Customer,8.207106415549374,North,Seasonal Sale,3,4
+ORD1421,Clothing,Corporate,Cash on Delivery,Completed,3,229.23675069003338,687.7102520701001,2/16/23,CUST122,First-time Buyer,29.299558320609762,North,Seasonal Sale,1,4
+ORD1422,Furniture,Corporate,Bank Transfer,Shipped,4,275.11497035464873,1100.459881418595,12/21/23,CUST127,First-time Buyer,27.395666606586463,South,Seasonal Sale,4,1
+ORD1423,Groceries,Corporate,Credit Card,Canceled,4,272.22272723102986,1088.8909089241195,11/7/23,CUST965,First-time Buyer,9.885663646332578,North,No Promotion,1,3
+ORD1424,Sports Equipment,Corporate,Credit Card,Completed,4,350.26591946946877,1401.063677877875,11/4/23,CUST695,Loyal Customer,19.32392976,South,Seasonal Sale,7,5
+ORD1425,Sports Equipment,Consumer,PayPal,Completed,1,169.75241415207216,169.75241415207216,5/24/23,CUST422,Regular Customer,16.858173030104844,East,Seasonal Sale,8,2
+ORD1426,Sports Equipment,Consumer,Cash on Delivery,Pending,2,268.3074652258528,536.6149304517056,9/26/23,CUST832,First-time Buyer,8.964953186466206,West,Seasonal Sale,8,3
+ORD1427,Furniture,Consumer,Credit Card,Pending,2,355.28387944632425,710.5677588926485,5/4/23,CUST208,Loyal Customer,29.082691557011433,West,Flash Sale,10,1
+ORD1428,Electronics,Corporate,Credit Card,Canceled,2,292.8724611414724,585.7449222829448,4/16/23,CUST371,First-time Buyer,6.384426378306608,West,Seasonal Sale,3,1
+ORD1429,Clothing,Consumer,PayPal,Shipped,1,234.97385289489952,234.97385289489952,6/7/23,CUST892,Loyal Customer,24.014578110841633,North,No Promotion,8,1
+ORD1430,Groceries,Corporate,PayPal,Shipped,3,464.39579047723805,1393.1873714317142,5/27/23,CUST951,Loyal Customer,19.610229143973527,North,Flash Sale,4,1
+ORD1431,Furniture,Corporate,Bank Transfer,Pending,4,118.7586047895038,475.0344191580152,5/25/23,CUST709,Regular Customer,8.994422283393941,East,No Promotion,8,2
+ORD1432,Clothing,Corporate,PayPal,Canceled,3,488.3771435527557,1465.1314306582672,4/30/23,CUST538,First-time Buyer,10.049746770327097,West,Bundle Discount,7,1
+ORD1433,Books,Corporate,Bank Transfer,Pending,1,254.08075498837428,254.08075498837428,11/15/23,CUST884,Regular Customer,15.372746140375872,West,Seasonal Sale,4,1
+ORD1434,Electronics,Corporate,Cash on Delivery,Shipped,5,261.7072159392411,1308.5360796962054,10/2/23,CUST265,Regular Customer,6.3774840988391075,North,No Promotion,4,4
+ORD1435,Books,Consumer,Credit Card,Pending,4,372.45869151982606,1489.8347660793042,4/2/23,CUST767,Loyal Customer,14.685847678297696,South,Bundle Discount,4,1
+ORD1436,Sports Equipment,Consumer,PayPal,Completed,1,254.39827489705937,254.39827489705937,2/27/23,CUST461,Regular Customer,5.847243241563353,South,Bundle Discount,4,4
+ORD1437,Groceries,Corporate,Bank Transfer,Canceled,4,362.8127413372761,1451.2509653491045,12/12/23,CUST656,Loyal Customer,25.38734599,North,Seasonal Sale,1,5
+ORD1438,Groceries,Consumer,Bank Transfer,Pending,3,186.9640793653767,560.8922380961301,8/17/23,CUST607,Regular Customer,24.487101430286955,West,Bundle Discount,4,5
+ORD1439,Electronics,Corporate,PayPal,Pending,1,453.28656025301825,453.28656025301825,4/27/23,CUST474,First-time Buyer,9.490351764,South,No Promotion,9,1
+ORD1440,Groceries,Corporate,Cash on Delivery,Pending,1,457.51004481299054,457.51004481299054,11/14/23,CUST674,Regular Customer,24.540243782196683,East,Flash Sale,7,1
+ORD1441,Clothing,Consumer,Credit Card,Pending,4,169.17723884310072,676.7089553724029,10/6/23,CUST101,Loyal Customer,16.17395480745095,East,Flash Sale,4,3
+ORD1442,Sports Equipment,Corporate,Cash on Delivery,Completed,1,204.4441820258405,204.4441820258405,5/7/23,CUST636,Regular Customer,16.41215127121019,North,Seasonal Sale,6,2
+ORD1443,Sports Equipment,Consumer,PayPal,Shipped,3,101.90338965198376,305.7101689559513,5/9/23,CUST229,Loyal Customer,21.558094257581544,West,No Promotion,8,3
+ORD1444,Sports Equipment,Consumer,PayPal,Shipped,1,84.90874926395772,84.90874926395772,2/27/23,CUST907,First-time Buyer,16.853455286579628,South,No Promotion,2,3
+ORD1445,Furniture,Consumer,Credit Card,Canceled,2,129.07945658537392,258.15891317074784,5/2/23,CUST566,Loyal Customer,17.579882520210617,West,Flash Sale,6,5
+ORD1446,Clothing,Corporate,PayPal,Completed,3,482.8494291565513,1448.548287469654,1/1/23,CUST241,Regular Customer,25.93765090722288,East,Seasonal Sale,3,1
+ORD1447,Clothing,Consumer,PayPal,Canceled,5,193.2732408753598,966.3662043767989,8/27/23,CUST272,Regular Customer,7.216993506225629,East,Flash Sale,10,3
+ORD1448,Clothing,Consumer,Credit Card,Pending,5,493.6296165403218,2468.148082701609,10/17/23,CUST939,Loyal Customer,9.942906433310585,South,Flash Sale,1,1
+ORD1449,Furniture,Consumer,Bank Transfer,Pending,5,378.0232698103887,1890.1163490519434,4/6/23,CUST748,First-time Buyer,19.915320847644303,South,Seasonal Sale,1,5
+ORD1450,Furniture,Consumer,PayPal,Pending,4,485.1169797354881,1940.4679189419523,5/6/23,CUST873,First-time Buyer,10.44410811408354,South,No Promotion,5,3
+ORD1451,Books,Corporate,Cash on Delivery,Completed,5,192.13902088659174,960.6951044329587,4/28/23,CUST377,Regular Customer,14.861691792280764,West,Bundle Discount,6,2
+ORD1452,Clothing,Consumer,Cash on Delivery,Canceled,4,337.88327717964563,1351.5331087185825,2/17/23,CUST344,Loyal Customer,23.335538108733253,South,Flash Sale,1,5
+ORD1453,Furniture,Corporate,Credit Card,Canceled,4,263.21172120644917,1052.8468848257967,3/30/23,CUST315,Loyal Customer,6.6687947663719145,North,Flash Sale,3,4
+ORD1454,Clothing,Corporate,Cash on Delivery,Pending,2,468.96937577454656,937.9387515490931,8/25/23,CUST240,First-time Buyer,9.737795241108614,South,Flash Sale,6,1
+ORD1455,Books,Corporate,PayPal,Canceled,4,201.4047418913506,805.6189675654024,9/29/23,CUST748,First-time Buyer,28.72017740346818,West,Flash Sale,4,2
+ORD1456,Books,Corporate,Cash on Delivery,Pending,5,309.0766111636581,1545.3830558182904,7/8/23,CUST631,Regular Customer,15.30509323525504,West,No Promotion,1,4
+ORD1457,Furniture,Corporate,Bank Transfer,Shipped,4,62.54924362274808,250.19697449099232,7/11/23,CUST301,Loyal Customer,23.15193935097967,West,Seasonal Sale,8,3
+ORD1458,Groceries,Consumer,PayPal,Canceled,1,498.3361157,498.3361157,3/10/23,CUST770,First-time Buyer,7.883087181218027,South,No Promotion,7,5
+ORD1459,Electronics,Corporate,Bank Transfer,Completed,2,26.693017104715334,53.38603420943067,10/5/23,CUST127,First-time Buyer,17.321436544217626,South,No Promotion,6,2
+ORD1460,Electronics,Corporate,Cash on Delivery,Completed,4,118.22763907044782,472.9105562817913,12/15/23,CUST320,Loyal Customer,8.033897212719054,West,Flash Sale,7,2
+ORD1461,Clothing,Corporate,Credit Card,Pending,4,468.22037649673615,1872.8815059869446,9/4/23,CUST256,Loyal Customer,27.76348389,North,Seasonal Sale,6,2
+ORD1462,Furniture,Consumer,PayPal,Canceled,2,202.18134758829927,404.36269517659855,3/17/23,CUST820,First-time Buyer,24.392290043448952,North,Flash Sale,2,3
+ORD1463,Books,Corporate,Credit Card,Canceled,2,326.86970298941077,653.7394059788215,6/3/23,CUST548,Regular Customer,14.308288674113907,South,Flash Sale,8,4
+ORD1464,Clothing,Corporate,Cash on Delivery,Shipped,4,469.0028909033419,1876.0115636133676,5/24/23,CUST688,Regular Customer,12.422464165732006,West,Bundle Discount,8,1
+ORD1465,Furniture,Consumer,PayPal,Shipped,4,184.48170643834604,737.9268257533842,3/27/23,CUST721,First-time Buyer,13.07523013793809,South,Flash Sale,6,4
+ORD1466,Sports Equipment,Corporate,Credit Card,Pending,5,265.6587307076592,1328.293653538296,7/4/23,CUST340,First-time Buyer,13.836490218909699,West,Seasonal Sale,3,4
+ORD1467,Books,Corporate,Bank Transfer,Shipped,1,143.92022971503377,143.92022971503377,10/12/23,CUST816,Loyal Customer,27.70587975757542,East,Bundle Discount,6,2
+ORD1468,Electronics,Consumer,Bank Transfer,Pending,5,84.16222887,420.81114433621553,8/8/23,CUST865,First-time Buyer,23.23525461434264,West,Flash Sale,10,4
+ORD1469,Groceries,Corporate,Bank Transfer,Pending,4,157.67251964328602,630.6900785731441,3/10/23,CUST297,Regular Customer,21.109088906421867,North,No Promotion,7,5
+ORD1470,Groceries,Consumer,Bank Transfer,Completed,4,348.5211423267052,1394.0845693068209,2/16/23,CUST806,First-time Buyer,17.645996562741605,West,No Promotion,1,4
+ORD1471,Electronics,Corporate,Bank Transfer,Pending,4,286.6954628768302,1146.7818515073209,4/4/23,CUST624,First-time Buyer,14.517207015851135,East,Bundle Discount,10,2
+ORD1472,Groceries,Consumer,Bank Transfer,Canceled,1,209.77235677784003,209.77235677784003,8/26/23,CUST163,Regular Customer,17.28329933322704,South,Flash Sale,4,4
+ORD1473,Furniture,Consumer,PayPal,Canceled,4,411.756456,1647.025824146064,7/23/23,CUST658,First-time Buyer,7.005229658224983,West,No Promotion,10,4
+ORD1474,Furniture,Consumer,Credit Card,Pending,1,464.3834229455664,464.3834229455664,8/6/23,CUST910,Regular Customer,14.94005036829699,South,Bundle Discount,2,4
+ORD1475,Clothing,Corporate,Bank Transfer,Shipped,4,230.8372104394335,923.3488418,12/7/23,CUST819,First-time Buyer,28.71745151199434,East,No Promotion,4,4
+ORD1476,Electronics,Corporate,Bank Transfer,Completed,4,357.9769940165147,1431.9079760660588,2/8/23,CUST549,First-time Buyer,24.83952064394682,West,Flash Sale,9,5
+ORD1477,Sports Equipment,Consumer,Cash on Delivery,Pending,4,49.41721233409925,197.6688493,4/10/23,CUST888,Loyal Customer,27.32514856489731,East,Seasonal Sale,1,1
+ORD1478,Electronics,Consumer,Bank Transfer,Pending,2,188.79895725079456,377.5979145015891,10/16/23,CUST538,First-time Buyer,22.040058315434813,West,Seasonal Sale,2,1
+ORD1479,Books,Consumer,Cash on Delivery,Canceled,2,229.84942109402144,459.6988421880429,9/11/23,CUST105,Regular Customer,15.694560451992288,West,Seasonal Sale,2,3
+ORD1480,Books,Consumer,Credit Card,Pending,1,105.3805147390105,105.3805147390105,8/10/23,CUST828,Loyal Customer,17.500963794433858,North,No Promotion,8,4
+ORD1481,Sports Equipment,Consumer,Bank Transfer,Pending,5,379.7102442663165,1898.5512213315826,12/23/23,CUST850,Loyal Customer,16.653139910379057,South,No Promotion,9,3
+ORD1482,Groceries,Consumer,Cash on Delivery,Pending,4,255.31936524069712,1021.2774609627885,1/23/23,CUST956,Loyal Customer,22.94928599962316,South,Flash Sale,2,4
+ORD1483,Electronics,Corporate,Credit Card,Canceled,4,411.1808972,1644.723588859376,9/7/23,CUST768,First-time Buyer,18.43237065352409,South,Seasonal Sale,5,4
+ORD1484,Books,Consumer,Cash on Delivery,Completed,2,48.98374949741701,97.96749899483402,1/10/23,CUST272,First-time Buyer,22.07589797,North,No Promotion,4,5
+ORD1485,Clothing,Consumer,Credit Card,Completed,5,402.43452094781514,2012.1726047390757,9/3/23,CUST645,Regular Customer,22.45432003183145,West,Seasonal Sale,6,5
+ORD1486,Clothing,Corporate,Bank Transfer,Pending,1,293.8344117589076,293.8344117589076,11/21/23,CUST131,First-time Buyer,6.991291831274614,West,No Promotion,4,3
+ORD1487,Books,Consumer,Credit Card,Pending,1,33.13169186038821,33.13169186038821,4/10/23,CUST965,Regular Customer,24.106219006477737,East,No Promotion,1,1
+ORD1488,Electronics,Corporate,PayPal,Canceled,4,156.96680764718812,627.8672305887525,10/17/23,CUST736,First-time Buyer,26.20649073587569,South,Bundle Discount,5,5
+ORD1489,Electronics,Corporate,Cash on Delivery,Shipped,3,385.5215498538227,1156.564649561468,6/29/23,CUST777,Regular Customer,9.111196936844491,East,Seasonal Sale,10,2
+ORD1490,Groceries,Consumer,Credit Card,Pending,3,432.14210644766104,1296.426319342983,8/11/23,CUST364,First-time Buyer,10.927013842525593,South,Seasonal Sale,1,1
+ORD1491,Furniture,Corporate,Cash on Delivery,Canceled,4,204.77150418956083,819.0860167582433,9/7/23,CUST166,Regular Customer,18.325222622228555,West,Flash Sale,1,4
+ORD1492,Clothing,Consumer,Bank Transfer,Canceled,2,434.6733434378068,869.3466868756136,5/27/23,CUST241,Regular Customer,23.995977030197412,West,No Promotion,2,2
+ORD1493,Groceries,Consumer,Cash on Delivery,Canceled,4,127.73960907100229,510.95843628400917,4/6/23,CUST777,Loyal Customer,17.28767487,West,Bundle Discount,1,3
+ORD1494,Sports Equipment,Consumer,Bank Transfer,Pending,3,449.5193220621335,1348.5579661864003,9/14/23,CUST267,Regular Customer,13.699733930081448,South,No Promotion,10,2
+ORD1495,Electronics,Consumer,Cash on Delivery,Pending,5,230.62479005222897,1153.123950261145,11/21/23,CUST194,First-time Buyer,13.477007096144625,West,Seasonal Sale,10,4
+ORD1496,Furniture,Corporate,PayPal,Completed,4,440.6385086361164,1762.5540345444656,1/4/23,CUST913,First-time Buyer,20.203557347424077,North,Flash Sale,1,3
+ORD1497,Clothing,Consumer,Cash on Delivery,Canceled,2,64.37240056034292,128.74480112068585,1/16/23,CUST407,First-time Buyer,27.58929809550225,East,Flash Sale,4,1
+ORD1498,Groceries,Consumer,Bank Transfer,Completed,3,475.20530721728665,1425.615922,10/7/23,CUST663,Regular Customer,20.226978602253176,South,Flash Sale,2,2
+ORD1499,Furniture,Consumer,Credit Card,Canceled,2,495.16174414772547,990.3234882954509,12/2/23,CUST413,First-time Buyer,15.115166280466878,West,Flash Sale,10,2
